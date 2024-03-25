@@ -966,6 +966,7 @@
 
 ## Rust 
 
+- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
 - [emarsden/dash-mpd-cli](https://github.com/emarsden/dash-mpd-cli) - Download media content from a DASH-MPEG or DASH-WebM MPD manifest
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data
