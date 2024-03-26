@@ -2497,7 +2497,7 @@
 - [cytopia/awesome-ci](https://github.com/cytopia/awesome-ci) - Awesome Continuous Integration - Lot's of tools for git, file and static source code analysis.
 - [stellargraph/stellargraph](https://github.com/stellargraph/stellargraph) - StellarGraph - Machine Learning on Graphs
 - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
-- [intel-analytics/BigDL-2.x](https://github.com/intel-analytics/BigDL-2.x) - Distributed Tensorflow, Keras and PyTorch on Apache Spark/Flink & Ray
+- [intel-analytics/BigDL-2.x](https://github.com/intel-analytics/BigDL-2.x) - This repo contains the original BigDL project (distributed TensorFlow, Keras and PyTorch on Apache Spark/Flink & Ray)
 - [iterative/dvc](https://github.com/iterative/dvc) - 🦉 ML Experiments and Data Management with Git
 - [Sceptre/sceptre](https://github.com/Sceptre/sceptre) - Build better AWS infrastructure
 - [pdoc3/pdoc](https://github.com/pdoc3/pdoc) - :snake: :arrow_right: :scroll:  Auto-generate API documentation for Python projects
@@ -2538,7 +2538,7 @@
 - [lxe/simple-llm-finetuner](https://github.com/lxe/simple-llm-finetuner) - Simple UI for LLM Model Finetuning
 - [XavierXiao/Dreambooth-Stable-Diffusion](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion) - Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) with Stable Diffusion
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
-- [intel-analytics/BigDL-2.x](https://github.com/intel-analytics/BigDL-2.x) - Distributed Tensorflow, Keras and PyTorch on Apache Spark/Flink & Ray
+- [intel-analytics/BigDL-2.x](https://github.com/intel-analytics/BigDL-2.x) - This repo contains the original BigDL project (distributed TensorFlow, Keras and PyTorch on Apache Spark/Flink & Ray)
 
 ## qt 
 
@@ -2662,7 +2662,7 @@
 
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
 - [sbt/sbt-license-report](https://github.com/sbt/sbt-license-report) - Report on licenses used in an sbt project.
-- [intel-analytics/BigDL-2.x](https://github.com/intel-analytics/BigDL-2.x) - Distributed Tensorflow, Keras and PyTorch on Apache Spark/Flink & Ray
+- [intel-analytics/BigDL-2.x](https://github.com/intel-analytics/BigDL-2.x) - This repo contains the original BigDL project (distributed TensorFlow, Keras and PyTorch on Apache Spark/Flink & Ray)
 - [nteract/papermill](https://github.com/nteract/papermill) - 📚 Parameterize, execute, and analyze notebooks
 
 ## scikit-learn 
