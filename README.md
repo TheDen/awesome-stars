@@ -756,7 +756,7 @@
 - [outlines-dev/outlines](https://github.com/outlines-dev/outlines) - Structured Text Generation
 - [megadose/holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
 - [Justintime50/homebrew-releaser](https://github.com/Justintime50/homebrew-releaser) - Release scripts, binaries, and executables directly to Homebrew via GitHub Actions.
-- [irgolic/AutoPR](https://github.com/irgolic/AutoPR) - Bring your codebase to life
+- [irgolic/AutoPR](https://github.com/irgolic/AutoPR) - Run AI-powered workflows over your codebase
 - [redhat-performance/tuned](https://github.com/redhat-performance/tuned) - Tuning Profile Delivery Mechanism for Linux
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
