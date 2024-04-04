@@ -224,7 +224,7 @@
 - [irgolic/AutoPR](https://github.com/irgolic/AutoPR) - Run AI-powered workflows over your codebase
 - [lxe/simple-llm-finetuner](https://github.com/lxe/simple-llm-finetuner) - Simple UI for LLM Model Finetuning
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
-- [JinayJain/gpt-anywhere](https://github.com/JinayJain/gpt-anywhere) - Use GPT anywhere with just one shortcut. Available for Mac, Windows, and Linux. Over 1,400 downloads.
+- [JinayJain/gpt-anywhere](https://github.com/JinayJain/gpt-anywhere) - Use GPT anywhere with just one shortcut. Available for Mac, Windows, and Linux. Over 1,500 downloads.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one CLI tool for 10+ AI platforms, including OpenAI(ChatGPT), Gemini, Claude, Mistral, LocalAI, Ollama, VertexAI, Ernie, Qianwen...
 - [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
 - [adblockradio/adblockradio](https://github.com/adblockradio/adblockradio) - An adblocker for live radio streams and podcasts. Machine learning meets Shazam.
@@ -546,7 +546,7 @@
 - [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 - [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
 - [ShipBit/slickgpt](https://github.com/ShipBit/slickgpt) - SlickGPT is a light-weight "use-your-own-API-key" web client for the OpenAI API written in Svelte. It offers GPT-4 integration, a userless share feature and other superpowers.
-- [JinayJain/gpt-anywhere](https://github.com/JinayJain/gpt-anywhere) - Use GPT anywhere with just one shortcut. Available for Mac, Windows, and Linux. Over 1,400 downloads.
+- [JinayJain/gpt-anywhere](https://github.com/JinayJain/gpt-anywhere) - Use GPT anywhere with just one shortcut. Available for Mac, Windows, and Linux. Over 1,500 downloads.
 - [0xStabby/chatgpt-vim](https://github.com/0xStabby/chatgpt-vim) - Use ChatGPT/OpenAI from inside Vim.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one CLI tool for 10+ AI platforms, including OpenAI(ChatGPT), Gemini, Claude, Mistral, LocalAI, Ollama, VertexAI, Ernie, Qianwen...
 - [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
