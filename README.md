@@ -208,6 +208,7 @@
 
 ## Go 
 
+- [stackrox/kube-linter](https://github.com/stackrox/kube-linter) - KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
 - [jessfraz/dockfmt](https://github.com/jessfraz/dockfmt) - Dockerfile format and parser. Like `gofmt` but for Dockerfiles.
 - [briandowns/spinner](https://github.com/briandowns/spinner) - Go (golang) package with 90 configurable terminal spinner/progress indicators.
 - [grafeas/kritis](https://github.com/grafeas/kritis) - Deploy-time Policy Enforcer for Kubernetes applications
@@ -959,6 +960,7 @@
 
 ## Ruby 
 
+- [appvia/krane](https://github.com/appvia/krane) - Kubernetes RBAC static analysis & visualisation tool
 - [ankane/pgsync](https://github.com/ankane/pgsync) - Sync data from one Postgres database to another
 - [joeyates/imap-backup](https://github.com/joeyates/imap-backup) - Backup and Migrate IMAP Email Accounts
 - [piotrmurach/tty-sparkline](https://github.com/piotrmurach/tty-sparkline) - Sparkline charts for terminal applications.
