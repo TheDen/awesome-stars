@@ -1082,6 +1082,7 @@
 
 ## go 
 
+- [nieomylnieja/go-libyear](https://github.com/nieomylnieja/go-libyear) - Calculate Go module's libyear!
 - [briandowns/spinner](https://github.com/briandowns/spinner) - Go (golang) package with 90 configurable terminal spinner/progress indicators.
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [fatih/color](https://github.com/fatih/color) - Color package for Go (golang)
@@ -1145,6 +1146,7 @@
 
 ## golang 
 
+- [nieomylnieja/go-libyear](https://github.com/nieomylnieja/go-libyear) - Calculate Go module's libyear!
 - [briandowns/spinner](https://github.com/briandowns/spinner) - Go (golang) package with 90 configurable terminal spinner/progress indicators.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
