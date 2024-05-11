@@ -76,6 +76,7 @@
 
 ## C 
 
+- [chunkypixel/atari-dev-studio](https://github.com/chunkypixel/atari-dev-studio) - Homebrew game creation for the Atari 8-bit consoles (VS Code Extension)
 - [TheOfficialFloW/VitaTweaks](https://github.com/TheOfficialFloW/VitaTweaks) - A collection of small tweaks for the PS Vita
 - [nginx/unit](https://github.com/nginx/unit) - NGINX Unit - universal web app server - a lightweight and versatile open source server that simplifies the application stack by natively executing application code across eight different programming l
 - [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
@@ -433,6 +434,7 @@
 
 ## JavaScript 
 
+- [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
 - [CesiumGS/obj2gltf](https://github.com/CesiumGS/obj2gltf) - Convert OBJ assets to glTF
 - [samwhitford/threejs-ordered-dithering-effect](https://github.com/samwhitford/threejs-ordered-dithering-effect) - Threejs post-processing shader to apply an ordered dithering effect
 - [dessant/web-archives](https://github.com/dessant/web-archives) - Browser extension for viewing archived and cached versions of web pages, available for Chrome, Edge and Safari
@@ -973,6 +975,10 @@
 
 ## Rust 
 
+- [darakian/ddh](https://github.com/darakian/ddh) - A fast duplicate file finder
+- [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust.
+- [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
+- [jmacdonald/amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
 - [emarsden/dash-mpd-cli](https://github.com/emarsden/dash-mpd-cli) - Download media content from a DASH-MPEG or DASH-WebM MPD manifest
