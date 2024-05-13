@@ -209,6 +209,7 @@
 
 ## Go 
 
+- [SongStitch/anchor](https://github.com/SongStitch/anchor) - A tool for anchoring dependencies in dockerfiles
 - [nieomylnieja/go-libyear](https://github.com/nieomylnieja/go-libyear) - Calculate Go module's libyear!
 - [stackrox/kube-linter](https://github.com/stackrox/kube-linter) - KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
 - [jessfraz/dockfmt](https://github.com/jessfraz/dockfmt) - Dockerfile format and parser. Like `gofmt` but for Dockerfiles.
@@ -757,6 +758,7 @@
 
 ## Python 
 
+- [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [pulumiverse/pulumi-talos](https://github.com/pulumiverse/pulumi-talos) - Pulumi provider for Talos
 - [imoneoi/openchat](https://github.com/imoneoi/openchat) - OpenChat: Advancing Open-source Language Models with Imperfect Data
