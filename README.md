@@ -209,6 +209,9 @@
 
 ## Go 
 
+- [uudashr/gocognit](https://github.com/uudashr/gocognit) - Calculates cognitive complexities of functions (and methods) in Go source code. (Golang cognitive complexity)
+- [ultraware/funlen](https://github.com/ultraware/funlen) - 
+- [dominikh/go-tools](https://github.com/dominikh/go-tools) - Staticcheck - The advanced Go linter
 - [SongStitch/anchor](https://github.com/SongStitch/anchor) - A tool for anchoring dependencies in dockerfiles
 - [nieomylnieja/go-libyear](https://github.com/nieomylnieja/go-libyear) - Calculate Go module's libyear!
 - [stackrox/kube-linter](https://github.com/stackrox/kube-linter) - KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
