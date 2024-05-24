@@ -1090,7 +1090,7 @@
 ## go 
 
 - [uudashr/gocognit](https://github.com/uudashr/gocognit) - Calculates cognitive complexities of functions (and methods) in Go source code. (Golang cognitive complexity)
-- [nieomylnieja/go-libyear](https://github.com/nieomylnieja/go-libyear) - Calculate Go module's libyear!
+- [nieomylnieja/go-libyear](https://github.com/nieomylnieja/go-libyear) - Calculate Go module's libyear! (and more)
 - [briandowns/spinner](https://github.com/briandowns/spinner) - Go (golang) package with 90 configurable terminal spinner/progress indicators.
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [fatih/color](https://github.com/fatih/color) - Color package for Go (golang)
@@ -1155,7 +1155,7 @@
 ## golang 
 
 - [uudashr/gocognit](https://github.com/uudashr/gocognit) - Calculates cognitive complexities of functions (and methods) in Go source code. (Golang cognitive complexity)
-- [nieomylnieja/go-libyear](https://github.com/nieomylnieja/go-libyear) - Calculate Go module's libyear!
+- [nieomylnieja/go-libyear](https://github.com/nieomylnieja/go-libyear) - Calculate Go module's libyear! (and more)
 - [briandowns/spinner](https://github.com/briandowns/spinner) - Go (golang) package with 90 configurable terminal spinner/progress indicators.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
