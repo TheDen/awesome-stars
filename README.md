@@ -868,7 +868,7 @@
 - [whipper-team/whipper](https://github.com/whipper-team/whipper) - Python CD-DA ripper preferring accuracy over speed
 - [l3uddz/plex_dupefinder](https://github.com/l3uddz/plex_dupefinder) - Find and delete duplicate files in Plex
 - [Pypperoni/pypperoni](https://github.com/Pypperoni/pypperoni) - Pypperoni Python Compiler Source Code
-- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, 3.10, and 3.11. You feed it your Python app, it does a lot of clever things, a
+- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.12. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [ccjensen/PlexMediaTagger](https://github.com/ccjensen/PlexMediaTagger) - Uses the metadata held in the PlexMediaServer to tag media files
 - [freedomofpress/dangerzone](https://github.com/freedomofpress/dangerzone) - Take potentially dangerous PDFs, office documents, or images and convert them to safe PDFs
@@ -1011,7 +1011,7 @@
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
-- [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
+- [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [tralph3/ddi](https://github.com/tralph3/ddi) - A safer dd
 - [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
