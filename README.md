@@ -249,7 +249,7 @@
 - [token2/authy-migration](https://github.com/token2/authy-migration) - Migrating from Authy to Token2 hardware tokens or alternative TOTP Apps, including WinAuth or Raivo OTP
 - [denisbrodbeck/machineid](https://github.com/denisbrodbeck/machineid) - Get the unique machine id of any host (without admin privileges)
 - [caseymrm/menuet](https://github.com/caseymrm/menuet) - Go library to create menubar apps- programs that live only in OSX's NSStatusBar
-- [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go. Soon to be renamed DarwinKit!
+- [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver
 - [mattolenik/hclq](https://github.com/mattolenik/hclq) - Command-line processor for HashiCorp config files, like sed for HCL — Terraform, Consul, Nomad, Vault
 - [ipfs/kubo](https://github.com/ipfs/kubo) - An IPFS implementation in Go
 - [cloudentity/oauth2c](https://github.com/cloudentity/oauth2c) - User-friendly OAuth2 CLI
