@@ -2121,7 +2121,7 @@
 - [kfoozminus/cheatsheets](https://github.com/kfoozminus/cheatsheets) - 
 - [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - Open-sourced codes for MiniGPT-4 and MiniGPT-v2 (https://minigpt-4.github.io, https://minigpt-v2.github.io/)
 - [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: run open-source LLMs anywhere
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Chat with Local LLMs on Any Device
 - [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer with a focus on textbooks and research papers
 - [leoadberg/UnknownPleasures](https://github.com/leoadberg/UnknownPleasures) - Python script that makes the Unknown Pleasures album art
 - [getcursor/cursor](https://github.com/getcursor/cursor) - The AI-powered code editor
