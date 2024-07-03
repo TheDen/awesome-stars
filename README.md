@@ -214,6 +214,7 @@
 
 ## Go 
 
+- [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang
 - [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) - A compiler from Go to JavaScript for running Go code in a browser
 - [AccentDesign/gcss](https://github.com/AccentDesign/gcss) - CSS written in Pure Go
 - [budimanjojo/talhelper](https://github.com/budimanjojo/talhelper) - A tool to help creating Talos kubernetes cluster
