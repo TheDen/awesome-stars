@@ -77,6 +77,7 @@
 
 ## C 
 
+- [abb128/LiveCaptions](https://github.com/abb128/LiveCaptions) - Linux Desktop application that provides live captioning
 - [chunkypixel/atari-dev-studio](https://github.com/chunkypixel/atari-dev-studio) - Homebrew game creation for the Atari 8-bit consoles (VS Code Extension)
 - [TheOfficialFloW/VitaTweaks](https://github.com/TheOfficialFloW/VitaTweaks) - A collection of small tweaks for the PS Vita
 - [nginx/unit](https://github.com/nginx/unit) - NGINX Unit - universal web app server - a lightweight and versatile open source server that simplifies the application stack by natively executing application code across eight different programming l
