@@ -77,6 +77,7 @@
 
 ## C 
 
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [abb128/LiveCaptions](https://github.com/abb128/LiveCaptions) - Linux Desktop application that provides live captioning
 - [chunkypixel/atari-dev-studio](https://github.com/chunkypixel/atari-dev-studio) - Homebrew game creation for the Atari 8-bit consoles (VS Code Extension)
 - [TheOfficialFloW/VitaTweaks](https://github.com/TheOfficialFloW/VitaTweaks) - A collection of small tweaks for the PS Vita
@@ -498,7 +499,7 @@
 - [Th3Wall/Fakeflix](https://github.com/Th3Wall/Fakeflix) - Not the usual clone that you can find on the web.
 - [AR-js-org/AR.js](https://github.com/AR-js-org/AR.js) - Image tracking, Location Based AR, Marker tracking. All on the Web.
 - [james-proxy/james](https://github.com/james-proxy/james) - Web Debugging Proxy Application
-- [ThatGuySam/doesitarm](https://github.com/ThatGuySam/doesitarm) - 🦾 A list of reported app support for Apple Silicon as well as Apple M2 and M1 Ultra Macs
+- [ThatGuySam/doesitarm](https://github.com/ThatGuySam/doesitarm) - 🦾 A list of reported app support for Apple Silicon as well as Apple M4 and M3 Ultra Macs
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [knoopx/plex-music](https://github.com/knoopx/plex-music) - Web/Desktop app for streaming music from your Plex Media Server
@@ -1025,7 +1026,7 @@
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [tralph3/ddi](https://github.com/tralph3/ddi) - A safer dd
 - [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
-- [sigoden/argc](https://github.com/sigoden/argc) - A Bash CLI framework, also a Bash-based command runner.
+- [sigoden/argc](https://github.com/sigoden/argc) - A Bash CLI framework, also a Bash command runner.
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 - [visioncortex/vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter
 - [pdeljanov/Symphonia](https://github.com/pdeljanov/Symphonia) - Pure Rust multimedia format demuxing, tag reading, and audio decoding library
