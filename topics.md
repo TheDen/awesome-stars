@@ -1124,6 +1124,7 @@
 
 ## go 
 
+- [tetafro/godot](https://github.com/tetafro/godot) - Linter that checks that comments end in a period
 - [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) - A compiler from Go to JavaScript for running Go code in a browser
 - [uudashr/gocognit](https://github.com/uudashr/gocognit) - Calculates cognitive complexities of functions (and methods) in Go source code. (Golang cognitive complexity)
 - [nieomylnieja/go-libyear](https://github.com/nieomylnieja/go-libyear) - Calculate Go module's libyear! (and more)
@@ -1190,6 +1191,7 @@
 
 ## golang 
 
+- [tetafro/godot](https://github.com/tetafro/godot) - Linter that checks that comments end in a period
 - [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) - A compiler from Go to JavaScript for running Go code in a browser
 - [AccentDesign/gcss](https://github.com/AccentDesign/gcss) - CSS written in Pure Go
 - [uudashr/gocognit](https://github.com/uudashr/gocognit) - Calculates cognitive complexities of functions (and methods) in Go source code. (Golang cognitive complexity)
@@ -1301,6 +1303,7 @@
 
 ## hacktoberfest 
 
+- [bombsimon/wsl](https://github.com/bombsimon/wsl) - ␊ Whitespace Linter - Forces you to use empty lines!
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) - A compiler from Go to JavaScript for running Go code in a browser
 - [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) - A Desktop App for YouTube Music
@@ -2098,6 +2101,7 @@
 
 ## others 
 
+- [daixiang0/gci](https://github.com/daixiang0/gci) - GCI, a tool that control golang package import order and make it always deterministic.
 - [abb128/LiveCaptions](https://github.com/abb128/LiveCaptions) - Linux Desktop application that provides live captioning
 - [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang
 - [nicanorflavier/spf-dkim-dmarc-simplified](https://github.com/nicanorflavier/spf-dkim-dmarc-simplified) - Email security is a key part of internet communication. But what are SPF, DKIM, and DMARC, and how do they work? This guide will explain it all in simple terms to make these concepts clearer.
