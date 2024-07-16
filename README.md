@@ -216,6 +216,9 @@
 
 ## Go 
 
+- [tetafro/godot](https://github.com/tetafro/godot) - Linter that checks that comments end in a period
+- [bombsimon/wsl](https://github.com/bombsimon/wsl) - ␊ Whitespace Linter - Forces you to use empty lines!
+- [daixiang0/gci](https://github.com/daixiang0/gci) - GCI, a tool that control golang package import order and make it always deterministic.
 - [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang
 - [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) - A compiler from Go to JavaScript for running Go code in a browser
 - [AccentDesign/gcss](https://github.com/AccentDesign/gcss) - CSS written in Pure Go
