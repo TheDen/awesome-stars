@@ -89,7 +89,6 @@
 - [86Box/86Box](https://github.com/86Box/86Box) - Emulator of x86-based machines based on PCem.
 - [jakehilborn/displayplacer](https://github.com/jakehilborn/displayplacer) - macOS command line utility to configure multi-display resolutions and arrangements. Essentially XRandR for macOS.
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
-- [guillaumechereau/goxel](https://github.com/guillaumechereau/goxel) - Goxel: Free and Open Source 3D Voxel Editor
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
 - [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
 - [nkanaev/tipsy](https://github.com/nkanaev/tipsy) - tiny playstationy renderer
@@ -141,6 +140,7 @@
 - [official-stockfish/Stockfish](https://github.com/official-stockfish/Stockfish) - A free and strong UCI chess engine
 - [stenzek/duckstation](https://github.com/stenzek/duckstation) - Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64
 - [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
+- [guillaumechereau/goxel](https://github.com/guillaumechereau/goxel) - Goxel: Free and Open Source 3D Voxel Editor
 - [huxingyi/dust3d](https://github.com/huxingyi/dust3d) - Dust3D is a cross-platform 3D modeling software that makes it easy to create low poly 3D models for video games, 3D printing, and more.
 - [wkjarosz/hdrview](https://github.com/wkjarosz/hdrview) - A simple research-oriented image viewer with an emphasis on examining and comparing high-dynamic range (HDR) images, and including minimalistic editing and tonemapping capabilities.
 - [blender/blender](https://github.com/blender/blender) - Official mirror of Blender
