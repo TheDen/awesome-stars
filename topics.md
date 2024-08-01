@@ -2323,7 +2323,6 @@
 - [Supervisor/supervisor](https://github.com/Supervisor/supervisor) - Supervisor process control system for Unix (supervisord)
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
-- [dabeaz-course/practical-python](https://github.com/dabeaz-course/practical-python) - Practical Python Programming (course by @dabeaz)
 - [kevinjyjung/SocialNetwork](https://github.com/kevinjyjung/SocialNetwork) - 
 - [derricw/siggo](https://github.com/derricw/siggo) - a TUI for signal messenger, written in Go
 - [say4n/hotreload](https://github.com/say4n/hotreload) - hot reload your python code!
@@ -2585,6 +2584,7 @@
 - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.12. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
+- [dabeaz-course/practical-python](https://github.com/dabeaz-course/practical-python) - Practical Python Programming (course by @dabeaz)
 - [sdiehl/subpy](https://github.com/sdiehl/subpy) - Python subsets
 - [pfalcon/awesome-python-compilers](https://github.com/pfalcon/awesome-python-compilers) - Retrospective of Python compilation efforts
 - [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
