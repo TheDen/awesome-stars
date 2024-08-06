@@ -1092,7 +1092,7 @@
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
 - [presslabs/gitfs](https://github.com/presslabs/gitfs) - Version controlled file system
-- [MichaelMure/git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
+- [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [jupyterlab/jupyterlab-github](https://github.com/jupyterlab/jupyterlab-github) - GitHub integration for JupyterLab
 - [iterative/dvc](https://github.com/iterative/dvc) - 🦉 ML Experiments and Data Management with Git
