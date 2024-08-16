@@ -128,6 +128,7 @@
 
 ## C# # 
 
+- [ErsatzTV/ErsatzTV](https://github.com/ErsatzTV/ErsatzTV) - Stream custom live channels using your own media
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) - Looks and smells like Sonarr but made for music.
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [lachesis/scallion](https://github.com/lachesis/scallion) - GPU-based Onion Hash generator
