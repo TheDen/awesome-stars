@@ -983,7 +983,7 @@
 
 ## emulator 
 
-- [86Box/86Box](https://github.com/86Box/86Box) - Emulator of x86-based machines based on PCem.
+- [86Box/86Box](https://github.com/86Box/86Box) - Emulator of x86-based machines.
 - [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance) - iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started:  https://wiki.provenance-emu.com  |
 - [stenzek/duckstation](https://github.com/stenzek/duckstation) - Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64
 - [TrungNguyen1909/qemu-t8030](https://github.com/TrungNguyen1909/qemu-t8030) - iPhone 11 emulated on QEMU
