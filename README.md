@@ -87,7 +87,7 @@
 - [adrianlopezroche/fdupes](https://github.com/adrianlopezroche/fdupes) - FDUPES is a program for identifying or deleting duplicate files residing within specified directories.
 - [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer with a focus on textbooks and research papers
 - [PCemOnMac/PCemV17macOS](https://github.com/PCemOnMac/PCemV17macOS) - Port of the PCem PC emulator for macOS. Comes with OpenGL 3.0 support built-in
-- [86Box/86Box](https://github.com/86Box/86Box) - Emulator of x86-based machines based on PCem.
+- [86Box/86Box](https://github.com/86Box/86Box) - Emulator of x86-based machines.
 - [jakehilborn/displayplacer](https://github.com/jakehilborn/displayplacer) - macOS command line utility to configure multi-display resolutions and arrangements. Essentially XRandR for macOS.
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
