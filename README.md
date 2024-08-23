@@ -78,6 +78,7 @@
 
 ## C 
 
+- [jbreckmckye/notris](https://github.com/jbreckmckye/notris) - Tetris clone for PlayStation 1 (PSX)
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [abb128/LiveCaptions](https://github.com/abb128/LiveCaptions) - Linux Desktop application that provides live captioning
 - [chunkypixel/atari-dev-studio](https://github.com/chunkypixel/atari-dev-studio) - Homebrew game creation for the Atari 8-bit consoles (VS Code Extension)
@@ -827,7 +828,6 @@
 - [netchecks/operator](https://github.com/netchecks/operator) - Netchecks kubernetes operator
 - [Owez/yark](https://github.com/Owez/yark) - YouTube archiving made simple.
 - [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
-- [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
 - [huggingface/accelerate](https://github.com/huggingface/accelerate) - 🚀 A simple way to launch, train, and use PyTorch models on almost any device and distributed configuration, automatic mixed precision (including fp8), and easy-to-configure FSDP and DeepSpeed support
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [salesforce/CodeGen](https://github.com/salesforce/CodeGen) - CodeGen is a family of open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.
@@ -1113,7 +1113,7 @@
 - [seek-oss/ssm-buildkite-plugin](https://github.com/seek-oss/ssm-buildkite-plugin) - Secure Store Parameters for Buildkite
 - [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
 - [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
-- [tanrax/maza-ad-blocking](https://github.com/tanrax/maza-ad-blocking) - Local ad blocker. Like Pi-hole but local and using your operating system.
+- [tanrax/maza-ad-blocking](https://github.com/tanrax/maza-ad-blocking) - Simple, native and efficient local ad blocker. Only Bash.
 - [Hexxeh/rpi-update](https://github.com/Hexxeh/rpi-update) - An easier way to update the firmware of your Raspberry Pi
 - [buildkite-plugins/golang-cross-compile-buildkite-plugin](https://github.com/buildkite-plugins/golang-cross-compile-buildkite-plugin) - ✨ Cross-Compile Go binaries across multiple operating system, architecture and Go versions in parallel
 - [buildkite-plugins/docker-buildkite-plugin](https://github.com/buildkite-plugins/docker-buildkite-plugin) - 🐳📦 Run any build step in a Docker container
