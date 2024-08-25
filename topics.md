@@ -535,7 +535,7 @@
 
 ## c 
 
-- [jbreckmckye/notris](https://github.com/jbreckmckye/notris) - Tetris clone for PlayStation 1 (PSX)
+- [jbreckmckye/nortis](https://github.com/jbreckmckye/nortis) - Tetris clone for PlayStation 1 (PSX)
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
@@ -1071,7 +1071,7 @@
 
 ## game 
 
-- [jbreckmckye/notris](https://github.com/jbreckmckye/notris) - Tetris clone for PlayStation 1 (PSX)
+- [jbreckmckye/nortis](https://github.com/jbreckmckye/nortis) - Tetris clone for PlayStation 1 (PSX)
 - [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance) - iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started:  https://wiki.provenance-emu.com  |
 - [genuinetools/contained.af](https://github.com/genuinetools/contained.af) - A stupid game for learning about containers, capabilities, and syscalls.
 
@@ -2181,7 +2181,7 @@
 - [kfoozminus/cheatsheets](https://github.com/kfoozminus/cheatsheets) - 
 - [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - Open-sourced codes for MiniGPT-4 and MiniGPT-v2 (https://minigpt-4.github.io, https://minigpt-v2.github.io/)
 - [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Chat with Local LLMs on Any Device
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer with a focus on textbooks and research papers
 - [leoadberg/UnknownPleasures](https://github.com/leoadberg/UnknownPleasures) - Python script that makes the Unknown Pleasures album art
 - [getcursor/cursor](https://github.com/getcursor/cursor) - The AI Code Editor
