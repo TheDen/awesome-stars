@@ -111,6 +111,7 @@
 - [https](#https)
 - [icon-font](#icon-font)
 - [image-processing](#image-processing)
+- [instagram](#instagram)
 - [ios](#ios)
 - [iot](#iot)
 - [ipfs](#ipfs)
@@ -1489,6 +1490,15 @@
 - [wkjarosz/hdrview](https://github.com/wkjarosz/hdrview) - A simple research-oriented image viewer with an emphasis on examining and comparing high-dynamic range (HDR) images, and including minimalistic editing and tonemapping capabilities.
 - [szTheory/exifcleaner](https://github.com/szTheory/exifcleaner) - Cross-platform desktop GUI app to clean image metadata
 
+## instagram 
+
+- [megadose/holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
+- [chris-greening/instascrape](https://github.com/chris-greening/instascrape) - Powerful and flexible Instagram scraping library for Python, providing easy-to-use and expressive tools for accessing data programmatically
+- [davidarroyo1234/InstagramUnfollowers](https://github.com/davidarroyo1234/InstagramUnfollowers) - Check if people follows you back on Instagram.
+- [alexal1/Insomniac](https://github.com/alexal1/Insomniac) - Instagram bot for automated Instagram interaction using Android device via ADB
+- [breuerfelix/instapy-gui](https://github.com/breuerfelix/instapy-gui) - gui for instapy automation
+- [noncent/instagram-data-scraper](https://github.com/noncent/instagram-data-scraper) - Instagram Data Scraper, Instagram Web Scraper, Instagram Super Scraper is a PHP script which takes @user-name or #keywords as input and returns all information related to user or hash-tags e.g. likes,
+
 ## ios 
 
 - [SongStitch/songstitch-ios](https://github.com/SongStitch/songstitch-ios) - A blazingly fast iOS app for generating LastFM collages.
@@ -2323,7 +2333,6 @@
 - [gocomet/snippets](https://github.com/gocomet/snippets) - A collection of code snippets, generally for use with Shopify
 - [vikrantnegi/shopify-code-snippets](https://github.com/vikrantnegi/shopify-code-snippets) - A compilation of code snippets for Shopify developers.
 - [freakdesign/Shopify-code-snippets](https://github.com/freakdesign/Shopify-code-snippets) - Shopify code examples and tips
-- [davidarroyo1234/InstagramUnfollowers](https://github.com/davidarroyo1234/InstagramUnfollowers) - Check if people follows you back on Instagram.
 - [dkogan/feedgnuplot](https://github.com/dkogan/feedgnuplot) - Tool to plot realtime and stored data from the commandline, using gnuplot.
 - [blocktronics/moebius](https://github.com/blocktronics/moebius) - Modern ANSI & ASCII Art Editor
 - [asciimoo/drawille](https://github.com/asciimoo/drawille) - Pixel graphics in terminal with unicode braille characters
@@ -2407,7 +2416,6 @@
 - [controlplaneio/kubectl-kubesec](https://github.com/controlplaneio/kubectl-kubesec) - Security risk analysis for Kubernetes resources
 - [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
 - [iovisor/kubectl-trace](https://github.com/iovisor/kubectl-trace) - Schedule bpftrace programs on your kubernetes cluster using the kubectl
-- [noncent/instagram-data-scraper](https://github.com/noncent/instagram-data-scraper) - Instagram Data Scraper, Instagram Web Scraper, Instagram Super Scraper is a PHP script which takes @user-name or #keywords as input and returns all information related to user or hash-tags e.g. likes,
 - [pybpc/f2format](https://github.com/pybpc/f2format) - Backport compiler for Python 3.6 formatted string literals (f-string).
 - [LinusU/gitignore-to-dockerignore](https://github.com/LinusU/gitignore-to-dockerignore) - Generate an equivalent `.dockerignore` file from an existing `.gitignore` file
 - [ggerganov/kbd-audio](https://github.com/ggerganov/kbd-audio) - 🎤⌨️ Acoustic keyboard eavesdropping
