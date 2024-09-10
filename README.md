@@ -224,6 +224,7 @@
 
 ## Go 
 
+- [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - Mirror images into your own registry and swap image references automatically.
 - [tetafro/godot](https://github.com/tetafro/godot) - Linter that checks that comments end in a period
 - [bombsimon/wsl](https://github.com/bombsimon/wsl) - ␊ Whitespace Linter - Forces you to use empty lines!
 - [daixiang0/gci](https://github.com/daixiang0/gci) - GCI, a tool that control golang package import order and make it always deterministic.
