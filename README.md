@@ -20,7 +20,6 @@
 - [Emacs Lisp](#emacs-lisp)
 - [Fluent](#fluent)
 - [FreeMarker](#freemarker)
-- [GLSL](#glsl)
 - [Go](#go)
 - [HTML](#html)
 - [Haskell](#haskell)
@@ -217,10 +216,6 @@
 ## FreeMarker 
 
 - [mozilla/send](https://github.com/mozilla/send) - Simple, private file sharing from the makers of Firefox
-
-## GLSL 
-
-- [jamylak/dotfiles](https://github.com/jamylak/dotfiles) - 
 
 ## Go 
 
@@ -436,7 +431,7 @@
 - [bradleytaunt/1mb-club](https://github.com/bradleytaunt/1mb-club) - An exclusive members-only club for web pages weighing less than 1 megabyte
 - [nkoehring/250kb-club](https://github.com/nkoehring/250kb-club) - An exclusive members-only club for web pages weighing no more than 250kb. Inspired by Bredley Taunts 1MB.club
 - [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji) - Open source emojis for designers, developers and everyone else!
-- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool.
+- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [miziomon/awesome-wordpress](https://github.com/miziomon/awesome-wordpress) - A curated list of amazingly awesome WordPress resources, themes, plugins and shiny things. Inspired by awesome-php.
 - [davidarroyo1234/InstagramUnfollowers](https://github.com/davidarroyo1234/InstagramUnfollowers) - Check if people follows you back on Instagram.
 - [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
@@ -1077,6 +1072,7 @@
 ## Shell 
 
 - [micahkepe/vimtutor-sequel](https://github.com/micahkepe/vimtutor-sequel) - Vimtutor Sequel - Advanced Vim Tutor Lessons
+- [jamylak/dotfiles](https://github.com/jamylak/dotfiles) - 
 - [crate-ci/gh-install](https://github.com/crate-ci/gh-install) - Install from github releases
 - [phusion/baseimage-docker](https://github.com/phusion/baseimage-docker) - A minimal Ubuntu base image modified for Docker-friendliness
 - [aws-containers/amazon-ecs-exec-checker](https://github.com/aws-containers/amazon-ecs-exec-checker) - 🚀 Pre-flight checks for ECS Exec
@@ -1206,7 +1202,7 @@
 - [algolia/autocomplete](https://github.com/algolia/autocomplete) - 🔮 Fast and full-featured autocomplete library
 - [whoiskatrin/chart-gpt](https://github.com/whoiskatrin/chart-gpt) - AI tool to build charts based on text input
 - [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) - GitHub Action to install QEMU static binaries
-- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for every model.
+- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - Come join the best place on the internet to learn AI skills. Use code "chatbotui" for an extra 20% off.
 - [JinayJain/gpt-anywhere](https://github.com/JinayJain/gpt-anywhere) - Use GPT anywhere with just one shortcut. Available for Mac, Windows, and Linux. Over 1,500 downloads.
 - [agneym/generate-og-image](https://github.com/agneym/generate-og-image) - Generate open graph images with Github Action from Markdown files
 - [dedoussis/icloud-hide-my-email-browser-extension](https://github.com/dedoussis/icloud-hide-my-email-browser-extension) - Enjoy iCloud's Hide My Email service in your favourite browser
