@@ -42,6 +42,7 @@
 - [Python](#python)
 - [QML](#qml)
 - [R](#r)
+- [Reason](#reason)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -989,6 +990,10 @@
 ## R 
 
 - [briatte/awesome-network-analysis](https://github.com/briatte/awesome-network-analysis) - A curated list of awesome network analysis resources.
+
+## Reason 
+
+- [onivim/oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
 
 ## Ruby 
 
