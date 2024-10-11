@@ -656,7 +656,7 @@
 - [chassing/linux-sysadmin-interview-questions](https://github.com/chassing/linux-sysadmin-interview-questions) - Collection of Linux Sysadmin/DevOps interview questions
 - [shuaibiyy/awesome-tf](https://github.com/shuaibiyy/awesome-tf) - Curated list of resources on HashiCorp's Terraform and OpenTofu
 - [IP-BrowserThemes/ChromeThemes](https://github.com/IP-BrowserThemes/ChromeThemes) - Chromium based browser themes
-- [dangwu/Octal](https://github.com/dangwu/Octal) - Hacker News Client for iOS
+- [SUWULLC/Octal](https://github.com/SUWULLC/Octal) - Hacker News Client for iOS
 - [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies
 - [polarisZhao/awesome-face](https://github.com/polarisZhao/awesome-face) - 😎 face releated algorithm, dataset and paper
 - [fosslife/awesome-ricing](https://github.com/fosslife/awesome-ricing) - A curated list of awesome tools and technology to help you out with ricing on linux
