@@ -970,7 +970,7 @@
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 - [nbedos/termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
 - [Miserlou/Zappa](https://github.com/Miserlou/Zappa) - Serverless Python
-- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source Security tool for AWS, Azure, GCP and Kubernetes to do security assessments, audits, incident response, compliance, continuous monitoring, hardening and forensics readiness. 
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Cloud Security tool for AWS, Azure, GCP and Kubernetes. It helps for continuos monitoring, security assessments and audits, incident response, compliance, hardening and forensics re
 - [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [HDE/python-lambda-local](https://github.com/HDE/python-lambda-local) - Run AWS Lambda function on local machine
