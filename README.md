@@ -244,7 +244,6 @@
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [creasty/defaults](https://github.com/creasty/defaults) - Initialize structs with default values
-- [pulumiverse/pulumi-talos](https://github.com/pulumiverse/pulumi-talos) - Pulumi provider for Talos
 - [kluctl/go-embed-python](https://github.com/kluctl/go-embed-python) - A library that provides an embedded python distribution to be usable from inside golang
 - [segmentio/golines](https://github.com/segmentio/golines) - A golang formatter that fixes long lines
 - [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - DevSecOps for Air Gap & Limited-Connection Systems. https://zarf.dev/
@@ -612,6 +611,7 @@
 
 ## Makefile 
 
+- [pulumiverse/pulumi-talos](https://github.com/pulumiverse/pulumi-talos) - Pulumi provider for Talos
 - [siderolabs/contrib](https://github.com/siderolabs/contrib) - talos/sidero setup examples
 - [hectorm/docker-qemu-win2000](https://github.com/hectorm/docker-qemu-win2000) - A Docker image for Windows 2000 Advanced Server with SP4.
 - [kostya/benchmarks](https://github.com/kostya/benchmarks) - Some benchmarks of different languages
