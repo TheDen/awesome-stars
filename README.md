@@ -634,7 +634,7 @@
 - [brunophilipe/Cakebrew](https://github.com/brunophilipe/Cakebrew) - Manage your Homebrew formulas with style using Cakebrew.
 - [hholtmann/smcFanControl](https://github.com/hholtmann/smcFanControl) - Control the fans of every Intel Mac to make it run cooler
 - [2ndalpha/gasmask](https://github.com/2ndalpha/gasmask) - Hosts file manager for OS X
-- [objective-see/LuLu](https://github.com/objective-see/LuLu) - LuLu is the free macOS firewall
+- [objective-see/LuLu](https://github.com/objective-see/LuLu) - LuLu is the free open-source macOS firewall
 - [sveinbjornt/Sloth](https://github.com/sveinbjornt/Sloth) - Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.
 - [ViennaRSS/vienna-rss](https://github.com/ViennaRSS/vienna-rss) - Vienna is a free and open-source RSS/Atom newsreader for macOS.
 - [MacPass/MacPass](https://github.com/MacPass/MacPass) - A native macOS KeePass client
