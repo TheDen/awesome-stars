@@ -488,6 +488,7 @@
 - [feracommerce/shopify_app_detector](https://github.com/feracommerce/shopify_app_detector) - Shopify App Detector chrome extension that can show you what theme and Shopify apps a store is using.
 - [divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) - Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.
 - [minbrowser/min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
+- [amirshnll/custom-device-emulation-chrome](https://github.com/amirshnll/custom-device-emulation-chrome) - custom device emulation chrome | How To Add Custom Device on Chrome Emulation ?
 - [IvanMathy/Boop](https://github.com/IvanMathy/Boop) - A scriptable scratchpad for developers. In slow yet steady progress.
 - [hemanth/head-it](https://github.com/hemanth/head-it) - Easy interface for `head`
 - [YellowLabTools/YellowLabTools](https://github.com/YellowLabTools/YellowLabTools) - WebPerf and front-end quality testing tool
@@ -667,7 +668,6 @@
 - [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies
 - [polarisZhao/awesome-face](https://github.com/polarisZhao/awesome-face) - 😎 face releated algorithm, dataset and paper
 - [fosslife/awesome-ricing](https://github.com/fosslife/awesome-ricing) - A curated list of awesome tools and technology to help you out with ricing on linux
-- [amirshnll/custom-device-emulation-chrome](https://github.com/amirshnll/custom-device-emulation-chrome) - custom device emulation chrome | How To Add Custom Device on Chrome Emulation ?
 - [its-a-feature/awesome-osx-command-line](https://github.com/its-a-feature/awesome-osx-command-line) - Use your OS X terminal shell to do awesome things.
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [agmmnn/awesome-blender](https://github.com/agmmnn/awesome-blender) - 🪐 A curated list of awesome Blender addons, tools, tutorials; and 3D resources for everyone.
