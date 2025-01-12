@@ -1140,6 +1140,7 @@
 - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
 - [pivpn/pivpn](https://github.com/pivpn/pivpn) - The Simplest VPN installer, designed for Raspberry Pi
 - [kow3ns/kubernetes-zookeeper](https://github.com/kow3ns/kubernetes-zookeeper) - This project contains tools to facilitate the deployment of Apache ZooKeeper on Kubernetes.
+- [Wandmalfarbe/pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template) - A pandoc LaTeX template to convert markdown files to PDF or LaTeX.
 - [ekalinin/github-markdown-toc](https://github.com/ekalinin/github-markdown-toc) - Easy TOC creation for GitHub README.md
 - [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
 - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
@@ -1207,7 +1208,6 @@
 ## TeX 
 
 - [opieters/business-card](https://github.com/opieters/business-card) - A business card in LaTeX.
-- [Wandmalfarbe/pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template) - A pandoc LaTeX template to convert markdown files to PDF or LaTeX.
 
 ## TypeScript 
 
