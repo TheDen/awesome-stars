@@ -341,6 +341,7 @@
 - [dkorunic/iSMC](https://github.com/dkorunic/iSMC) - Apple SMC CLI tool that can decode and display temperature, fans, battery, power, voltage and current information
 - [harryzcy/ascheck](https://github.com/harryzcy/ascheck) - A command-line app that bulk-checks your apps for the Apple Silicon support
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
+- [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) - The Cloud Native Control Plane
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [nginx/kubernetes-ingress](https://github.com/nginx/kubernetes-ingress) - NGINX and  NGINX Plus Ingress Controllers for Kubernetes
@@ -522,7 +523,6 @@
 - [ilhammeidi/dandelion-starter](https://github.com/ilhammeidi/dandelion-starter) - Dandelion Starter - React Dashboard Starter Template
 - [jpmorganchase/jif-dashboard](https://github.com/jpmorganchase/jif-dashboard) - A dashboard framework to quickly build widget-based dashboards
 - [davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) - :pencil: A curated list of Web Performance Optimization. Everyone can contribute here!
-- [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [lgraubner/sitemap-generator-cli](https://github.com/lgraubner/sitemap-generator-cli) - Creates an XML-Sitemap by crawling a given site.
 - [aFarkas/lazysizes](https://github.com/aFarkas/lazysizes) - High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any visibility changes triggered through user interaction, CSS or JavaScript without co
 - [hql287/Manta](https://github.com/hql287/Manta) - 🎉 Flexible invoicing desktop app with beautiful & customizable templates.
@@ -1087,6 +1087,7 @@
 
 ## Shell 
 
+- [elpy1/ssh-over-ssm](https://github.com/elpy1/ssh-over-ssm) - SSH over AWS SSM. No bastions or public-facing instances. SSH user management through IAM. No requirement to store SSH keys locally or on server.
 - [micahkepe/vimtutor-sequel](https://github.com/micahkepe/vimtutor-sequel) - Vimtutor Sequel - Advanced Vim Tutor Lessons
 - [jamylak/dotfiles](https://github.com/jamylak/dotfiles) - 
 - [crate-ci/gh-install](https://github.com/crate-ci/gh-install) - Install from github releases
