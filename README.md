@@ -794,6 +794,7 @@
 
 ## Python 
 
+- [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 - [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block.
 - [johnsturgeon/plex-tools](https://github.com/johnsturgeon/plex-tools) - Utilities and scripts for plex using the Plex API
 - [rnagabhyrava/plex-playlist-sync](https://github.com/rnagabhyrava/plex-playlist-sync) - App to recreate spotify/deezer playlists in your local plex server.
