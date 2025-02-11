@@ -138,6 +138,7 @@
 
 ## C++ 
 
+- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [Bigfoot71/r3d](https://github.com/Bigfoot71/r3d) - Advanced 3D rendering library for raylib
 - [samuelunicomb/gnns](https://github.com/samuelunicomb/gnns) - sandbox for playing with graph neural networks
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
@@ -195,6 +196,7 @@
 
 ## Dart 
 
+- [ente-io/ente](https://github.com/ente-io/ente) - Fully Open Source, End-to-End Encrypted Cloud
 - [kubenav/kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
 
 ## Dockerfile 
@@ -796,7 +798,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 - [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block.
-- [johnsturgeon/plex-tools](https://github.com/johnsturgeon/plex-tools) - Utilities and scripts for plex using the Plex API
+- [johnsturgeon/autoplex](https://github.com/johnsturgeon/autoplex) - Utilities and scripts for plex using the Plex API
 - [rnagabhyrava/plex-playlist-sync](https://github.com/rnagabhyrava/plex-playlist-sync) - App to recreate spotify/deezer playlists in your local plex server.
 - [Gyarbij/Plexist](https://github.com/Gyarbij/Plexist) - Plex+Playlist=Plexist, An application for recreating Spotify and Deezer playlist in Plex (because Plex music playlist are a croc of tihs)
 - [patrickchugh/terravision](https://github.com/patrickchugh/terravision) - Terravision creates Professional Cloud Architecture Diagrams from your Terraform code automatically. Supports AWS, Google and Azure.
