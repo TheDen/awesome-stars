@@ -1542,6 +1542,7 @@
 - [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [strongbox-password-safe/Strongbox](https://github.com/strongbox-password-safe/Strongbox) - A KeePass/Password Safe Client for iOS and OS X
+- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
 - [kubenav/kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
 - [aonez/Keka](https://github.com/aonez/Keka) - The macOS & iOS file archiver
 
@@ -2103,7 +2104,7 @@
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) - :notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications)
 - [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io) - 💬 Typebot is a powerful chatbot builder that you can self-host.
-- [owenthereal/jqplay](https://github.com/owenthereal/jqplay) - A jq playground built with Next.js
+- [jqlang/playground](https://github.com/jqlang/playground) - A jq playground built with Next.js
 
 ## nlp 
 
