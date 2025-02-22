@@ -267,7 +267,7 @@
 
 ## android 
 
-- [ente-io/ente](https://github.com/ente-io/ente) - Fully Open Source, End-to-End Encrypted Cloud
+- [ente-io/ente](https://github.com/ente-io/ente) - FOSS, End-to-End Encrypted Cloud
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Advanced player for set-top boxes and tvs running Android OS
@@ -318,6 +318,7 @@
 
 ## automation 
 
+- [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [trevorhobenshield/twitter-api-client](https://github.com/trevorhobenshield/twitter-api-client) - Implementation of X/Twitter v1, v2, and GraphQL APIs
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [alexal1/Insomniac](https://github.com/alexal1/Insomniac) - Instagram bot for automated Instagram interaction using Android device via ADB
@@ -325,6 +326,7 @@
 
 ## awesome 
 
+- [denji/awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark) - HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)
 - [MuxaJlbl4/Awesome-PlayStation-Vita](https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita) - List of awesome stuff for PlayStation Vita
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [notlmn/awesome-icons](https://github.com/notlmn/awesome-icons) - A curated list of awesome downloadable SVG/PNG/Font icon projects
@@ -388,6 +390,7 @@
 
 ## awesome-list 
 
+- [denji/awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark) - HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)
 - [MuxaJlbl4/Awesome-PlayStation-Vita](https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita) - List of awesome stuff for PlayStation Vita
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [notlmn/awesome-icons](https://github.com/notlmn/awesome-icons) - A curated list of awesome downloadable SVG/PNG/Font icon projects
@@ -844,7 +847,7 @@
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
-- [edgedb/edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
+- [geldata/gel](https://github.com/geldata/gel) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
 - [eveningkid/denodb](https://github.com/eveningkid/denodb) - MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno
 - [pi-hole/FTL](https://github.com/pi-hole/FTL) - The Pi-hole FTL engine
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
@@ -888,6 +891,7 @@
 
 ## devops 
 
+- [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
 - [lucagrulla/cw](https://github.com/lucagrulla/cw) - The best way to tail AWS CloudWatch Logs from your terminal
@@ -930,6 +934,7 @@
 
 ## docker 
 
+- [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [ArchiveBox/good-karma-kit](https://github.com/ArchiveBox/good-karma-kit) - 😇  A Docker Compose bundle to run on servers with spare CPU, RAM, disk, and bandwidth to help the world. Includes Tor, ArchiveWarrior, BOINC, and more...
 - [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
@@ -1073,7 +1078,7 @@
 
 ## flutter 
 
-- [ente-io/ente](https://github.com/ente-io/ente) - Fully Open Source, End-to-End Encrypted Cloud
+- [ente-io/ente](https://github.com/ente-io/ente) - FOSS, End-to-End Encrypted Cloud
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [kubenav/kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
 
@@ -1218,6 +1223,7 @@
 - [roma-glushko/tango](https://github.com/roma-glushko/tango) - Tango is a command-line tool for analyzing access logs 💃
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [elves/elvish](https://github.com/elves/elvish) - Powerful scripting language & versatile interactive shell
+- [nikitavoloboev/go](https://github.com/nikitavoloboev/go) - Go tools, libraries and other code
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [kubenav/kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
@@ -1242,7 +1248,7 @@
 
 ## golang 
 
-- [ente-io/ente](https://github.com/ente-io/ente) - Fully Open Source, End-to-End Encrypted Cloud
+- [ente-io/ente](https://github.com/ente-io/ente) - FOSS, End-to-End Encrypted Cloud
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [estahn/k8s-image-swapper](https://github.com/estahn/k8s-image-swapper) - Mirror images into your own registry and swap image references automatically.
 - [tetafro/godot](https://github.com/tetafro/godot) - Linter that checks that comments end in a period
@@ -1355,6 +1361,7 @@
 
 ## hacktoberfest 
 
+- [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection.
@@ -1495,6 +1502,7 @@
 
 ## http 
 
+- [denji/awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark) - HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [denosaurs/bench](https://github.com/denosaurs/bench) - 📊 Comparing deno, node and bun HTTP frameworks
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
@@ -1504,6 +1512,7 @@
 
 ## https 
 
+- [denji/awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark) - HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [denosaurs/bench](https://github.com/denosaurs/bench) - 📊 Comparing deno, node and bun HTTP frameworks
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
@@ -1532,7 +1541,7 @@
 
 ## ios 
 
-- [ente-io/ente](https://github.com/ente-io/ente) - Fully Open Source, End-to-End Encrypted Cloud
+- [ente-io/ente](https://github.com/ente-io/ente) - FOSS, End-to-End Encrypted Cloud
 - [SongStitch/songstitch-ios](https://github.com/SongStitch/songstitch-ios) - A blazingly fast iOS app for generating LastFM collages.
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver
@@ -2209,6 +2218,7 @@
 
 ## others 
 
+- [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
 - [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [gloaysa/whatsplaying](https://github.com/gloaysa/whatsplaying) - Display your album cover on Plexamp devices currently playing, or switch to your Album gallery and show off your album collection!
@@ -2219,7 +2229,7 @@
 - [Gyarbij/Plexist](https://github.com/Gyarbij/Plexist) - Plex+Playlist=Plexist, An application for recreating Spotify and Deezer playlist in Plex (because Plex music playlist are a croc of tihs)
 - [007revad/Synology_M2_volume](https://github.com/007revad/Synology_M2_volume) - Easily create an M.2 volume on Synology NAS
 - [007revad/Synology_HDD_db](https://github.com/007revad/Synology_HDD_db) - Add your HDD, SSD and NVMe drives to your Synology's compatible drive database and a lot more
-- [Bigfoot71/r3d](https://github.com/Bigfoot71/r3d) - Advanced 3D rendering library for raylib
+- [Bigfoot71/r3d-legacy](https://github.com/Bigfoot71/r3d-legacy) - Advanced 3D rendering library for raylib
 - [bsharper/atv-desktop-remote](https://github.com/bsharper/atv-desktop-remote) - A simple app to allow you to control an Apple TV from your desktop
 - [patrickchugh/terravision](https://github.com/patrickchugh/terravision) - Terravision creates Professional Cloud Architecture Diagrams from your Terraform code automatically. Supports AWS, Google and Azure.
 - [ckabalan/visualsubnetcalc](https://github.com/ckabalan/visualsubnetcalc) - Visual Subnet Calculator
@@ -2620,7 +2630,7 @@
 
 ## privacy 
 
-- [ente-io/ente](https://github.com/ente-io/ente) - Fully Open Source, End-to-End Encrypted Cloud
+- [ente-io/ente](https://github.com/ente-io/ente) - FOSS, End-to-End Encrypted Cloud
 - [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block.
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
@@ -2820,7 +2830,6 @@
 - [ilhammeidi/dandelion-starter](https://github.com/ilhammeidi/dandelion-starter) - Dandelion Starter - React Dashboard Starter Template
 - [Musish/Musish](https://github.com/Musish/Musish) - Apple Music...ish
 - [hql287/Manta](https://github.com/hql287/Manta) - 🎉 Flexible invoicing desktop app with beautiful & customizable templates.
-- [nikitavoloboev/nikiv.dev](https://github.com/nikitavoloboev/nikiv.dev) - Personal website
 - [ks888/LambStatus](https://github.com/ks888/LambStatus) - [Maintenance mode] Serverless Status Page System
 - [rodrigo-brito/gocity](https://github.com/rodrigo-brito/gocity) - :bar_chart: Code City metaphor for visualizing Go source code in 3D
 
@@ -2840,6 +2849,7 @@
 
 ## rest-api 
 
+- [denji/awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark) - HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
@@ -3209,6 +3219,7 @@
 
 ## testing 
 
+- [denji/awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark) - HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [helm/chart-testing](https://github.com/helm/chart-testing) - CLI tool for linting and testing Helm charts
 - [getezy/ezy](https://github.com/getezy/ezy) - 🔥 GUI client for gRPC/gRPC-Web
@@ -3224,7 +3235,7 @@
 
 ## typescript 
 
-- [ente-io/ente](https://github.com/ente-io/ente) - Fully Open Source, End-to-End Encrypted Cloud
+- [ente-io/ente](https://github.com/ente-io/ente) - FOSS, End-to-End Encrypted Cloud
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Builder.io for Figma: AI generation, export to code, import from web
@@ -3232,7 +3243,6 @@
 - [aws/aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [will-stone/browserosaurus](https://github.com/will-stone/browserosaurus) - 🦖 The browser prompter for macOS
-- [nikitavoloboev/nikiv.dev](https://github.com/nikitavoloboev/nikiv.dev) - Personal website
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 
 ## ubuntu 
