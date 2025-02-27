@@ -78,6 +78,7 @@
 
 ## C 
 
+- [ttkb-oss/dedup](https://github.com/ttkb-oss/dedup) - dedup finds and clones duplicate files
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [jbreckmckye/nortis](https://github.com/jbreckmckye/nortis) - Tetris clone for PlayStation 1 (PSX)
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
