@@ -94,7 +94,6 @@
 - [PCemOnMac/PCemV17macOS](https://github.com/PCemOnMac/PCemV17macOS) - Port of the PCem PC emulator for macOS. Comes with OpenGL 3.0 support built-in
 - [86Box/86Box](https://github.com/86Box/86Box) - Emulator of x86-based machines.
 - [jakehilborn/displayplacer](https://github.com/jakehilborn/displayplacer) - macOS command line utility to configure multi-display resolutions and arrangements. Essentially XRandR for macOS.
-- [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance) - iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started:  https://wiki.provenance-emu.com  |
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [wkjarosz/hdrview](https://github.com/wkjarosz/hdrview) - A simple research-oriented image viewer with an emphasis on examining and comparing high-dynamic range (HDR) images.
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
@@ -148,6 +147,7 @@
 - [samuelunicomb/gnns](https://github.com/samuelunicomb/gnns) - sandbox for playing with graph neural networks
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
+- [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance) - iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started:  https://wiki.provenance-emu.com  |
 - [official-stockfish/Stockfish](https://github.com/official-stockfish/Stockfish) - A free and strong UCI chess engine
 - [stenzek/duckstation](https://github.com/stenzek/duckstation) - Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64
 - [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
@@ -205,7 +205,7 @@
 
 ## Dart 
 
-- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted, FOSS cloud for Photos, 2FA secrets and more!
+- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted platform for photos, videos and 2FA secrets.
 - [kubenav/kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
 
 ## Dockerfile 
@@ -231,6 +231,7 @@
 
 ## Go 
 
+- [burrowers/garble](https://github.com/burrowers/garble) - Obfuscate Go builds
 - [xxxserxxx/gotop](https://github.com/xxxserxxx/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
@@ -1124,6 +1125,7 @@
 
 ## Shell 
 
+- [astavonin/go-optimization-guide](https://github.com/astavonin/go-optimization-guide) - Go Optimization Guide: Patterns and Techniques for Writing High-Performance Applications with Go
 - [Rakurri/rakurri-brush-set-for-krita](https://github.com/Rakurri/rakurri-brush-set-for-krita) - Free brush set for Krita!
 - [ChuckPa/PlexDBRepair](https://github.com/ChuckPa/PlexDBRepair) - Database repair utility for Plex Media Server databases
 - [007revad/Synology_M2_volume](https://github.com/007revad/Synology_M2_volume) - Easily create an M.2 volume on Synology NAS
