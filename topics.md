@@ -2253,6 +2253,7 @@
 
 ## others 
 
+- [thepartly/gatehouse](https://github.com/thepartly/gatehouse) - A flexible authorization library that combines role-based (RBAC), attribute-based (ABAC), and relationship-based (ReBAC) access control policies.
 - [go-echarts/go-echarts](https://github.com/go-echarts/go-echarts) - 🎨 The adorable charts library for Golang.
 - [rtts/djhtml](https://github.com/rtts/djhtml) - Django/Jinja template indenter
 - [xxxserxxx/gotop](https://github.com/xxxserxxx/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
