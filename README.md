@@ -231,6 +231,7 @@
 
 ## Go 
 
+- [rzane/docker2exe](https://github.com/rzane/docker2exe) - Convert a Docker image to an executable
 - [chromedp/chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
 - [go-echarts/go-echarts](https://github.com/go-echarts/go-echarts) - 🎨 The adorable charts library for Golang.
 - [burrowers/garble](https://github.com/burrowers/garble) - Obfuscate Go builds
@@ -1057,6 +1058,7 @@
 
 ## Rust 
 
+- [al13n321/nnd](https://github.com/al13n321/nnd) - A debugger for Linux
 - [hardbyte/spaceracers](https://github.com/hardbyte/spaceracers) - 
 - [thepartly/gatehouse](https://github.com/thepartly/gatehouse) - A flexible authorization library that combines role-based (RBAC), attribute-based (ABAC), and relationship-based (ReBAC) access control policies.
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
