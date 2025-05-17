@@ -384,9 +384,8 @@
 - [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - [elves/elvish](https://github.com/elves/elvish) - Powerful scripting language & versatile interactive shell
 - [vrothberg/vgrep](https://github.com/vrothberg/vgrep) - a user-friendly pager for grep
-- [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
+- [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git
 - [grundleborg/slack-advanced-exporter](https://github.com/grundleborg/slack-advanced-exporter) - A tool for exporting additional data from Slack that is missing from the official data export.
-- [nikitavoloboev/go](https://github.com/nikitavoloboev/go) - Go tools, libraries and other code
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [Shopify/kubeaudit](https://github.com/Shopify/kubeaudit) - kubeaudit helps you audit your Kubernetes clusters against common security controls
 - [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
@@ -827,6 +826,7 @@
 
 ## Python 
 
+- [matthsena/AlcheMark](https://github.com/matthsena/AlcheMark) - Your files ready for Gen AI ✨🚀 AlcheMark is a lightweight PDF to Markdown, alchemical-inspired toolkit that transmutes PDF documents into structured Markdown pages—complete with rich metadata and name
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
 - [rtts/djhtml](https://github.com/rtts/djhtml) - Django/Jinja template indenter
 - [djlint/djLint](https://github.com/djlint/djLint) - ✨ HTML Template Linter and Formatter. Django - Jinja - Nunjucks - Handlebars - GoLang
@@ -1323,6 +1323,7 @@
 - [itslenny/slack-emoji-import](https://github.com/itslenny/slack-emoji-import) - Simple bulk emoji importer for slack
 - [nautilusapp/nautilus](https://github.com/nautilusapp/nautilus) - A Docker Compose Charting Tool
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+- [nikitavoloboev/ui](https://github.com/nikitavoloboev/ui) - React components
 - [jupyterlab/jupyterlab-github](https://github.com/jupyterlab/jupyterlab-github) - GitHub integration for JupyterLab
 - [rcjsuen/dockerfile-utils](https://github.com/rcjsuen/dockerfile-utils) - A library and command line interface for formatting and linting Dockerfiles.
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
