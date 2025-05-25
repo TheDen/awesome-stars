@@ -2285,7 +2285,7 @@
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [gloaysa/whatsplaying](https://github.com/gloaysa/whatsplaying) - Display your album cover on Plexamp devices currently playing, or switch to your Album gallery and show off your album collection!
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
-- [ChuckPa/PlexDBRepair](https://github.com/ChuckPa/PlexDBRepair) - Database repair utility for Plex Media Server databases
+- [ChuckPa/DBRepair](https://github.com/ChuckPa/DBRepair) - Database repair utility for Plex Media Server databases
 - [johnsturgeon/autoplex](https://github.com/johnsturgeon/autoplex) - Web site to support your Plex Server with Music tasks
 - [rnagabhyrava/plex-playlist-sync](https://github.com/rnagabhyrava/plex-playlist-sync) - App to recreate spotify/deezer playlists in your local plex server.
 - [Gyarbij/Plexist](https://github.com/Gyarbij/Plexist) - Plex+Playlist=Plexist, An application for recreating Spotify and Deezer playlist in Plex (because Plex music playlist are a croc of tihs)
