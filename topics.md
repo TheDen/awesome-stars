@@ -2377,7 +2377,7 @@
 - [jaxxstorm/aws-sso-creds](https://github.com/jaxxstorm/aws-sso-creds) - Get AWS SSO temporary creds from an SSO profile
 - [IP-BrowserThemes/ChromeThemes](https://github.com/IP-BrowserThemes/ChromeThemes) - Chromium based browser themes
 - [vashpan/xcode-dev-cleaner](https://github.com/vashpan/xcode-dev-cleaner) - If you want to reclaim tens of gigabytes of your storage used for various Xcode caches - this tool is for you!
-- [mrtazz/checkmake](https://github.com/mrtazz/checkmake) - experimental linter/analyzer for Makefiles
+- [checkmake/checkmake](https://github.com/checkmake/checkmake) - experimental linter/analyzer for Makefiles
 - [SUWULLC/Octal](https://github.com/SUWULLC/Octal) - Hacker News Client for iOS
 - [gildas-lormeau/JSONVue](https://github.com/gildas-lormeau/JSONVue) - Fork of JSONView for Chromium-based browsers
 - [chrisdonahue/sheetsage](https://github.com/chrisdonahue/sheetsage) - Transcribe music into lead sheets!
