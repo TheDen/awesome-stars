@@ -495,7 +495,7 @@
 - [dessant/web-archives](https://github.com/dessant/web-archives) - Browser extension for viewing archived and cached versions of web pages, available for Chrome, Edge and Safari
 - [nextapps-de/spotlight](https://github.com/nextapps-de/spotlight) - The most easy to integrate lightbox image gallery library for the Web.
 - [henrygd/bigger-picture](https://github.com/henrygd/bigger-picture) - JavaScript lightbox gallery for images, video, audio, iframes, html. Zoomable, responsive, accessible, lightweight.
-- [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
+- [ChatGPTBox-dev/chatGPTBox](https://github.com/ChatGPTBox-dev/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
 - [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
 - [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
 - [sandoche/Darkmode.js](https://github.com/sandoche/Darkmode.js) - 🌓 Add a dark-mode / night-mode to your website in a few seconds
