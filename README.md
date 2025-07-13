@@ -232,6 +232,7 @@
 
 ## Go 
 
+- [google/yamlfmt](https://github.com/google/yamlfmt) - An extensible command line tool or library to format yaml files.
 - [kelindar/event](https://github.com/kelindar/event) - Simple internal event bus for Go applications
 - [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry
 - [iamhalje/defectdojo-exporter](https://github.com/iamhalje/defectdojo-exporter) - Collects Prometheus metrics for vulnerabilities of each product in DefectDojo
