@@ -2281,6 +2281,7 @@
 
 ## others 
 
+- [google/yamlfmt](https://github.com/google/yamlfmt) - An extensible command line tool or library to format yaml files.
 - [kelindar/event](https://github.com/kelindar/event) - Simple internal event bus for Go applications
 - [iamhalje/defectdojo-exporter](https://github.com/iamhalje/defectdojo-exporter) - Collects Prometheus metrics for vulnerabilities of each product in DefectDojo
 - [al13n321/nnd](https://github.com/al13n321/nnd) - A debugger for Linux
