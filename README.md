@@ -271,7 +271,7 @@
 - [creasty/defaults](https://github.com/creasty/defaults) - Initialize structs with default values
 - [kluctl/go-embed-python](https://github.com/kluctl/go-embed-python) - A library that provides an embedded python distribution to be usable from inside golang
 - [segmentio/golines](https://github.com/segmentio/golines) - A golang formatter that fixes long lines
-- [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - DevSecOps for Airgap & Limited-Connection Systems. https://zarf.dev/
+- [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - The Airgap Native Packager Manager for Kubernetes
 - [fatih/color](https://github.com/fatih/color) - Color package for Go (golang)
 - [arttor/helmify](https://github.com/arttor/helmify) - Creates Helm chart from Kubernetes yaml
 - [doitintl/kubeip](https://github.com/doitintl/kubeip) - Assign static public IPs to Kubernetes nodes (GKE, EKS)
