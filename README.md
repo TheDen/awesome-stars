@@ -232,6 +232,7 @@
 
 ## Go 
 
+- [noperator/jqfmt](https://github.com/noperator/jqfmt) - like gofmt, but for jq
 - [google/yamlfmt](https://github.com/google/yamlfmt) - An extensible command line tool or library to format yaml files.
 - [kelindar/event](https://github.com/kelindar/event) - Simple internal event bus for Go applications
 - [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry
@@ -489,6 +490,8 @@
 
 ## JavaScript 
 
+- [homebridge-plugins/homebridge-http-switch](https://github.com/homebridge-plugins/homebridge-http-switch) - Powerful http switch for Homebridge: https://github.com/homebridge/homebridge
+- [ebaauw/homebridge-hue](https://github.com/ebaauw/homebridge-hue) - Homebridge plugin for Philips Hue
 - [learnk8s/xlskubectl](https://github.com/learnk8s/xlskubectl) - xlskubectl — a spreadsheet to control your Kubernetes cluster
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
