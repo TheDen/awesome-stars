@@ -36,6 +36,7 @@
 - [Mathematica](#mathematica)
 - [Nix](#nix)
 - [Objective-C](#objective-c)
+- [Odin](#odin)
 - [Others](#others)
 - [PHP](#php)
 - [Pascal](#pascal)
@@ -96,6 +97,7 @@
 - [PCemOnMac/PCemV17macOS](https://github.com/PCemOnMac/PCemV17macOS) - Port of the PCem PC emulator for macOS. Comes with OpenGL 3.0 support built-in
 - [86Box/86Box](https://github.com/86Box/86Box) - Emulator of x86-based machines.
 - [jakehilborn/displayplacer](https://github.com/jakehilborn/displayplacer) - macOS command line utility to configure multi-display resolutions and arrangements. Essentially XRandR for macOS.
+- [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance) - iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started:  https://wiki.provenance-emu.com  |
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [wkjarosz/hdrview](https://github.com/wkjarosz/hdrview) - A simple research-oriented image viewer with an emphasis on examining and comparing high-dynamic range (HDR) images.
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
@@ -148,7 +150,6 @@
 - [samuelunicomb/gnns](https://github.com/samuelunicomb/gnns) - sandbox for playing with graph neural networks
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
-- [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance) - iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started:  https://wiki.provenance-emu.com  |
 - [official-stockfish/Stockfish](https://github.com/official-stockfish/Stockfish) - A free and strong UCI chess engine
 - [stenzek/duckstation](https://github.com/stenzek/duckstation) - Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64
 - [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
@@ -676,6 +677,10 @@
 - [sveinbjornt/Sloth](https://github.com/sveinbjornt/Sloth) - Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.
 - [ViennaRSS/vienna-rss](https://github.com/ViennaRSS/vienna-rss) - Vienna is a free and open-source RSS/Atom newsreader for macOS.
 - [MacPass/MacPass](https://github.com/MacPass/MacPass) - A native macOS KeePass client
+
+## Odin 
+
+- [DanielGavin/ols](https://github.com/DanielGavin/ols) - Language server for Odin
 
 ## Others 
 
