@@ -2291,6 +2291,7 @@
 
 ## others 
 
+- [DanielGavin/ols](https://github.com/DanielGavin/ols) - Language server for Odin
 - [noperator/jqfmt](https://github.com/noperator/jqfmt) - like gofmt, but for jq
 - [ebaauw/homebridge-hue](https://github.com/ebaauw/homebridge-hue) - Homebridge plugin for Philips Hue
 - [google/yamlfmt](https://github.com/google/yamlfmt) - An extensible command line tool or library to format yaml files.
