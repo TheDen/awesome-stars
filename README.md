@@ -31,7 +31,6 @@
 - [Kotlin](#kotlin)
 - [Liquid](#liquid)
 - [Lua](#lua)
-- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Mathematica](#mathematica)
 - [Nix](#nix)
@@ -184,6 +183,7 @@
 
 ## CSS 
 
+- [vinceliuice/WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) - MacOS like theme for all gtk based desktops
 - [iann0036/AWSConsoleRecorder](https://github.com/iann0036/AWSConsoleRecorder) - Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates.
 - [andreivcodes/coolm1](https://github.com/andreivcodes/coolm1) - Temp monitoring GUI for Apple M1 ❄️🍎
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
@@ -277,7 +277,7 @@
 - [fatih/color](https://github.com/fatih/color) - Color package for Go (golang)
 - [arttor/helmify](https://github.com/arttor/helmify) - Creates Helm chart from Kubernetes yaml
 - [doitintl/kubeip](https://github.com/doitintl/kubeip) - Assign static public IPs to Kubernetes nodes (GKE, EKS)
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go
 - [securego/gosec](https://github.com/securego/gosec) - Go security checker
 - [getzep/zep](https://github.com/getzep/zep) - Zep | Examples, Integrations, & More
@@ -612,6 +612,7 @@
 
 ## Jupyter Notebook 
 
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [lxe/simple-llm-finetuner](https://github.com/lxe/simple-llm-finetuner) - Simple UI for LLM Model Finetuning
 - [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
 - [texttron/hyde](https://github.com/texttron/hyde) - HyDE: Precise Zero-Shot Dense Retrieval without Relevance Labels
@@ -643,10 +644,6 @@
 - [jackMort/ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) - ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API
 - [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
 - [4ndyb/Awesome-Desktop](https://github.com/4ndyb/Awesome-Desktop) - rc.lua config for the Awesome desktop
-
-## MDX 
-
-- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 
 ## Makefile 
 
@@ -1071,7 +1068,7 @@
 - [joeyates/imap-backup](https://github.com/joeyates/imap-backup) - Backup and Migrate IMAP Email Accounts
 - [piotrmurach/tty-sparkline](https://github.com/piotrmurach/tty-sparkline) - Sparkline charts for terminal applications.
 - [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily
-- [DannyBen/bashly](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator
+- [bashly-framework/bashly](https://github.com/bashly-framework/bashly) - Bash command line framework and CLI generator
 - [illacceptanything/illacceptanything](https://github.com/illacceptanything/illacceptanything) - The project where literally anything* goes.
 - [in3rsha/sha256-animation](https://github.com/in3rsha/sha256-animation) - Animation of the SHA-256 hash function in your terminal.
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
@@ -1149,7 +1146,6 @@
 
 ## SCSS 
 
-- [vinceliuice/WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) - MacOS like theme for all gtk based desktops
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
 
 ## Scala 
