@@ -80,6 +80,8 @@
 
 ## C 
 
+- [TheOfficialFloW/MiniVitaTV](https://github.com/TheOfficialFloW/MiniVitaTV) - Allows you to play local multiplayer games on your PS Vita with up to 4 friends
+- [xerpi/vita-udcd-uvc](https://github.com/xerpi/vita-udcd-uvc) - PSVita UDCD USB Video Class plugin
 - [fwupd/fwupd](https://github.com/fwupd/fwupd) - A system daemon to allow session software to update firmware
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects
 - [ttkb-oss/dedup](https://github.com/ttkb-oss/dedup) - dedup finds and clones duplicate files
@@ -1154,6 +1156,7 @@
 
 ## Shell 
 
+- [SilentNightx/VitaDockPlus](https://github.com/SilentNightx/VitaDockPlus) - VitaDock+ is a Linux distribution for Raspberry Pi used to create a PlayStation Vita docking station for video output to a TV.
 - [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action) - Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities
 - [astavonin/go-optimization-guide](https://github.com/astavonin/go-optimization-guide) - Go Optimization Guide: Patterns and Techniques for Writing High-Performance Applications with Go
 - [Rakurri/rakurri-brush-set-for-krita](https://github.com/Rakurri/rakurri-brush-set-for-krita) - Free brush set for Krita!
