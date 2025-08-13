@@ -1245,6 +1245,7 @@
 
 ## Swift 
 
+- [ninxsoft/Mist](https://github.com/ninxsoft/Mist) - A Mac utility that automatically downloads macOS Firmwares / Installers.
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [marcowindt/ds4macos](https://github.com/marcowindt/ds4macos) - DSU Server for (DualShock 4 / DualSense) controllers for MacOS. To be used with the Dolphin emulator.
 - [SongStitch/songstitch-ios](https://github.com/SongStitch/songstitch-ios) - A blazingly fast iOS app for generating LastFM collages.
