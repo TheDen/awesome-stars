@@ -347,7 +347,7 @@
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 - [detailyang/awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet) - :beers: awesome cheatsheet
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
-- [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - Data & AI Notebook templates catalog organized by tools, following the IMO (input, model, output) framework for easy usage and discovery..
+- [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - [Legacy] Data & AI Notebook templates catalog organized by tools, following the IMO (input, model, output) framework for easy usage and discovery..
 - [shuaibiyy/awesome-tf](https://github.com/shuaibiyy/awesome-tf) - Curated list of resources on HashiCorp's Terraform and OpenTofu
 - [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
 - [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies
@@ -411,7 +411,7 @@
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 - [tomhuang12/awesome-k8s-resources](https://github.com/tomhuang12/awesome-k8s-resources) - A curated list of awesome Kubernetes tools and resources.
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
-- [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - Data & AI Notebook templates catalog organized by tools, following the IMO (input, model, output) framework for easy usage and discovery..
+- [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - [Legacy] Data & AI Notebook templates catalog organized by tools, following the IMO (input, model, output) framework for easy usage and discovery..
 - [shuaibiyy/awesome-tf](https://github.com/shuaibiyy/awesome-tf) - Curated list of resources on HashiCorp's Terraform and OpenTofu
 - [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
 - [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies
@@ -1242,6 +1242,7 @@
 
 ## go 
 
+- [go-simpler/goversion](https://github.com/go-simpler/goversion) - 🎲 Easily switch between multiple Go versions
 - [astavonin/go-optimization-guide](https://github.com/astavonin/go-optimization-guide) - Go Optimization Guide: Patterns and Techniques for Writing High-Performance Applications with Go
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [tetafro/godot](https://github.com/tetafro/godot) - Linter that checks that comments end in a period
@@ -1443,7 +1444,7 @@
 - [FairwindsOps/rbac-lookup](https://github.com/FairwindsOps/rbac-lookup) - Easily find roles and cluster roles attached to any user, service account, or group name in your Kubernetes cluster
 - [busser/tfautomv](https://github.com/busser/tfautomv) - Generate Terraform moved blocks automatically for painless refactoring
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Tfsec is now part of Trivy
-- [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - Data & AI Notebook templates catalog organized by tools, following the IMO (input, model, output) framework for easy usage and discovery..
+- [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - [Legacy] Data & AI Notebook templates catalog organized by tools, following the IMO (input, model, output) framework for easy usage and discovery..
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
@@ -1736,7 +1737,7 @@
 
 ## jupyter-notebook 
 
-- [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - Data & AI Notebook templates catalog organized by tools, following the IMO (input, model, output) framework for easy usage and discovery..
+- [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - [Legacy] Data & AI Notebook templates catalog organized by tools, following the IMO (input, model, output) framework for easy usage and discovery..
 - [mwouts/jupytext](https://github.com/mwouts/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
 - [jupyter-server/enterprise_gateway](https://github.com/jupyter-server/enterprise_gateway) - A lightweight, multi-tenant, scalable and secure gateway that enables Jupyter Notebooks to share resources across distributed clusters such as Apache Spark, Kubernetes and others.
 - [markusschanta/awesome-jupyter](https://github.com/markusschanta/awesome-jupyter) - A curated list of awesome Jupyter projects, libraries and resources
@@ -2826,7 +2827,7 @@
 - [puremourning/vimspector](https://github.com/puremourning/vimspector) - vimspector - A multi-language debugging system for Vim
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation
-- [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - Data & AI Notebook templates catalog organized by tools, following the IMO (input, model, output) framework for easy usage and discovery..
+- [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - [Legacy] Data & AI Notebook templates catalog organized by tools, following the IMO (input, model, output) framework for easy usage and discovery..
 - [donnemartin/saws](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
 - [xlcnd/isbntools](https://github.com/xlcnd/isbntools) - python app/framework for 'all things ISBN' including metadata, descriptions, covers...
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
