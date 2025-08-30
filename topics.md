@@ -1057,7 +1057,7 @@
 ## documentation 
 
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
-- [pdoc3/pdoc](https://github.com/pdoc3/pdoc) - :snake: :arrow_right: :scroll:  Auto-generate API documentation for Python projects
+- [pdoc3/pdoc](https://github.com/pdoc3/pdoc) - 🐍 ➡️ 📜  Auto-generate API documentation for Python projects
 - [unicodeveloper/awesome-documentation-tools](https://github.com/unicodeveloper/awesome-documentation-tools) - :fire: :books: All the tools, processes and resources you need to create an awesome API & Project documentation
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 
@@ -1518,7 +1518,7 @@
 - [jupyter-server/enterprise_gateway](https://github.com/jupyter-server/enterprise_gateway) - A lightweight, multi-tenant, scalable and secure gateway that enables Jupyter Notebooks to share resources across distributed clusters such as Apache Spark, Kubernetes and others.
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
 - [tech-conferences/confs.tech](https://github.com/tech-conferences/confs.tech) - Frontend for https://confs.tech
-- [pdoc3/pdoc](https://github.com/pdoc3/pdoc) - :snake: :arrow_right: :scroll:  Auto-generate API documentation for Python projects
+- [pdoc3/pdoc](https://github.com/pdoc3/pdoc) - 🐍 ➡️ 📜  Auto-generate API documentation for Python projects
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
 - [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
@@ -1544,6 +1544,7 @@
 
 ## homebridge 
 
+- [itavero/homebridge-z2m](https://github.com/itavero/homebridge-z2m) - Expose your Zigbee devices to HomeKit with ease, by integrating 🐝 Zigbee2MQTT with 🏠 Homebridge.
 - [homebridge-plugins/homebridge-http-switch](https://github.com/homebridge-plugins/homebridge-http-switch) - Powerful http switch for Homebridge: https://github.com/homebridge/homebridge
 - [tuya/tuya-homebridge](https://github.com/tuya/tuya-homebridge) - Homebridge custom plugin for controlling Powered by Tuya (PBT) devices in HomeKit. This plugin is officially maintained by the Tuya Developer Team.
 - [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
@@ -1780,6 +1781,7 @@
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) - Cloud Native Policy Management
 - [JovianX/helm-release-plugin](https://github.com/JovianX/helm-release-plugin) - Helm3 plugin that pulls(re-creates) helm Charts from deployed releases, and updates values of deployed releases without the chart.
+- [controlplaneio/kubesec](https://github.com/controlplaneio/kubesec) - Security risk analysis for Kubernetes resources
 - [FairwindsOps/nova](https://github.com/FairwindsOps/nova) - Find outdated or deprecated Helm charts running in your cluster.
 - [FairwindsOps/rbac-manager](https://github.com/FairwindsOps/rbac-manager) - A Kubernetes operator that simplifies the management of Role Bindings and Service Accounts.
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners
@@ -1893,7 +1895,7 @@
 - [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
 - [lucagrulla/cw](https://github.com/lucagrulla/cw) - The best way to tail AWS CloudWatch Logs from your terminal
 - [donnemartin/saws](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
-- [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
+- [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A book-in-progress about the Linux kernel and its insides.
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
 - [fosslife/awesome-ricing](https://github.com/fosslife/awesome-ricing) - A curated list of awesome tools and technology to help you out with ricing on linux
@@ -2893,7 +2895,7 @@
 - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
 - [intel/BigDL](https://github.com/intel/BigDL) - BigDL: Distributed TensorFlow, Keras and PyTorch on Apache Spark/Flink & Ray
 - [Sceptre/sceptre](https://github.com/Sceptre/sceptre) - Build better AWS infrastructure
-- [pdoc3/pdoc](https://github.com/pdoc3/pdoc) - :snake: :arrow_right: :scroll:  Auto-generate API documentation for Python projects
+- [pdoc3/pdoc](https://github.com/pdoc3/pdoc) - 🐍 ➡️ 📜  Auto-generate API documentation for Python projects
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [gcarrarom/kubeconfig-cleaner-cli](https://github.com/gcarrarom/kubeconfig-cleaner-cli) - ☸️ kcleaner - a tool for your Kube config files
 - [xiamx/awesome-sentiment-analysis](https://github.com/xiamx/awesome-sentiment-analysis) - 😀😄😂😭 A curated list of Sentiment Analysis methods, implementations and misc. 😥😟😱😤
@@ -2925,7 +2927,7 @@
 - [dfirsec/check_rep](https://github.com/dfirsec/check_rep) - Check IP or Domain reputation against open-source Blacklists.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [abhishekkr/gmail-helper](https://github.com/abhishekkr/gmail-helper) - it will contain different utilities for GMail API over OAuth2
-- [pdoc3/pdoc](https://github.com/pdoc3/pdoc) - :snake: :arrow_right: :scroll:  Auto-generate API documentation for Python projects
+- [pdoc3/pdoc](https://github.com/pdoc3/pdoc) - 🐍 ➡️ 📜  Auto-generate API documentation for Python projects
 - [gcarrarom/kubeconfig-cleaner-cli](https://github.com/gcarrarom/kubeconfig-cleaner-cli) - ☸️ kcleaner - a tool for your Kube config files
 
 ## pytorch 
@@ -3095,6 +3097,7 @@
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave
 - [tenable/terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
+- [controlplaneio/kubesec](https://github.com/controlplaneio/kubesec) - Security risk analysis for Kubernetes resources
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes 
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
