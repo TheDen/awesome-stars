@@ -95,6 +95,7 @@
 - [game-development](#game-development)
 - [game-engine](#game-engine)
 - [gamedev](#gamedev)
+- [gaming](#gaming)
 - [gh-extension](#gh-extension)
 - [git](#git)
 - [github](#github)
@@ -1200,6 +1201,11 @@
 
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 
+## gaming 
+
+- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
+- [mikeroyal/Apple-Silicon-Guide](https://github.com/mikeroyal/Apple-Silicon-Guide) - Apple Silicon Guide. Learn all about the A17 Pro, A16 Bionic, R1, M1-series,  M2-series, and M3-series chips. Along with all the Devices, Operating Systems, Tools, Gaming, and Software that Apple Sili
+
 ## gh-extension 
 
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
@@ -1447,7 +1453,6 @@
 - [anothrNick/github-tag-action](https://github.com/anothrNick/github-tag-action) - A Github Action to tag a repo on merge.
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
 - [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider.
-- [FairwindsOps/rbac-lookup](https://github.com/FairwindsOps/rbac-lookup) - Easily find roles and cluster roles attached to any user, service account, or group name in your Kubernetes cluster
 - [busser/tfautomv](https://github.com/busser/tfautomv) - Generate Terraform moved blocks automatically for painless refactoring
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Tfsec is now part of Trivy
 - [jupyter-naas/awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - [Legacy] Data & AI Notebook templates catalog organized by tools, following the IMO (input, model, output) framework for easy usage and discovery..
@@ -1455,8 +1460,6 @@
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
 - [controlplaneio/kubesec](https://github.com/controlplaneio/kubesec) - Security risk analysis for Kubernetes resources
-- [FairwindsOps/nova](https://github.com/FairwindsOps/nova) - Find outdated or deprecated Helm charts running in your cluster.
-- [FairwindsOps/rbac-manager](https://github.com/FairwindsOps/rbac-manager) - A Kubernetes operator that simplifies the management of Role Bindings and Service Accounts.
 - [HariSekhon/Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs) - Advanced Kubernetes YAML configs - Best Practices, Tips & Tricks, Production-Ready Checklist - experience from several production environments. AWS, GCP, Azure, ArgoCD, GKE, EKS, AKS, Nginx, Traefik, 
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -1478,8 +1481,6 @@
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos) - A curated list of awesome software for Apple's macOS.
 - [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Find your next book to read!
-- [FairwindsOps/rok8s-scripts](https://github.com/FairwindsOps/rok8s-scripts) - Opinionated scripts for managing application deployment lifecycle in Kubernetes
-- [FairwindsOps/polaris](https://github.com/FairwindsOps/polaris) - Validation of best practices in your Kubernetes clusters
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [ensemblesaw/ensembles-app](https://github.com/ensemblesaw/ensembles-app) - A digital arranger workstation powered by FluidSynth
@@ -1500,7 +1501,6 @@
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [flosell/trailscraper](https://github.com/flosell/trailscraper) - A command-line tool to get valuable information out of AWS CloudTrail
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
-- [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) - Get your resource requests "Just Right"
 - [teles/awesome-seo](https://github.com/teles/awesome-seo) - :star2: A curated list of SEO (Search Engine Optimization) links.
 - [labbots/bash-utility](https://github.com/labbots/bash-utility) - Bash library which provides utility functions and helpers for functional programming in Bash.
 - [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
@@ -2449,7 +2449,7 @@
 - [jaxxstorm/aws-sso-creds](https://github.com/jaxxstorm/aws-sso-creds) - Get AWS SSO temporary creds from an SSO profile
 - [IP-BrowserThemes/ChromeThemes](https://github.com/IP-BrowserThemes/ChromeThemes) - Chromium based browser themes
 - [vashpan/xcode-dev-cleaner](https://github.com/vashpan/xcode-dev-cleaner) - If you want to reclaim tens of gigabytes of your storage used for various Xcode caches - this tool is for you!
-- [checkmake/checkmake](https://github.com/checkmake/checkmake) - experimental linter/analyzer for Makefiles
+- [checkmake/checkmake](https://github.com/checkmake/checkmake) - Linter/analyzer for Makefiles
 - [SUWULLC/Octal](https://github.com/SUWULLC/Octal) - Hacker News Client for iOS
 - [gildas-lormeau/JSONVue](https://github.com/gildas-lormeau/JSONVue) - Fork of JSONView for Chromium-based browsers
 - [chrisdonahue/sheetsage](https://github.com/chrisdonahue/sheetsage) - Transcribe music into lead sheets!
