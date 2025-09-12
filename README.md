@@ -33,7 +33,6 @@
 - [Lua](#lua)
 - [Makefile](#makefile)
 - [Mathematica](#mathematica)
-- [Nix](#nix)
 - [Objective-C](#objective-c)
 - [Odin](#odin)
 - [Others](#others)
@@ -659,10 +658,6 @@
 
 - [dzhang314/YouTubeDrive](https://github.com/dzhang314/YouTubeDrive) - Store files as YouTube videos == infinite disk space
 
-## Nix 
-
-- [ad-si/awesome-music-production](https://github.com/ad-si/awesome-music-production) - A curated list of software, services, and resources to create and distribute music
-
 ## Objective-C 
 
 - [SelfControlApp/selfcontrol](https://github.com/SelfControlApp/selfcontrol) - :skull: Mac app to block your own access to distracting websites etc for a predetermined period of time. It can not be undone by the app or by a restart – you must wait for the timer to run out.
@@ -743,6 +738,7 @@
 - [fiatjaf/awesome-loginless](https://github.com/fiatjaf/awesome-loginless) - an awesome list of internet services that don't require logins or registrations
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
+- [ad-si/awesome-music-production](https://github.com/ad-si/awesome-music-production) - A curated list of software, services, and resources to create and distribute music
 - [simon987/awesome-datahoarding](https://github.com/simon987/awesome-datahoarding) - List of data-hoarding related tools
 - [noteflakes/awesome-music](https://github.com/noteflakes/awesome-music) - Awesome Music Projects
 - [lgg/awesome-keepass](https://github.com/lgg/awesome-keepass) - Curated list of KeePass-related projects
@@ -1289,6 +1285,7 @@
 
 ## TypeScript 
 
+- [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [itavero/homebridge-z2m](https://github.com/itavero/homebridge-z2m) - Expose your Zigbee devices to HomeKit with ease, by integrating 🐝 Zigbee2MQTT with 🏠 Homebridge.
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [gloaysa/whatsplaying](https://github.com/gloaysa/whatsplaying) - Display your album cover on Plexamp devices currently playing, or switch to your Album gallery and show off your album collection!
