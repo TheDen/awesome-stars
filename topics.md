@@ -230,6 +230,7 @@
 - [ubuntu](#ubuntu)
 - [ui](#ui)
 - [vim](#vim)
+- [visualization](#visualization)
 - [vpn](#vpn)
 - [vue](#vue)
 - [vuejs](#vuejs)
@@ -1463,6 +1464,7 @@
 
 ## hacktoberfest 
 
+- [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) - Open-Source Unified Vulnerability Management, DevSecOps & ASPM
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
@@ -1472,7 +1474,7 @@
 - [bombsimon/wsl](https://github.com/bombsimon/wsl) - ␊ whitespace linter - Forces you to use empty lines!
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) - A compiler from Go to JavaScript for running Go code in a browser
-- [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) - A Desktop App for YouTube Music
+- [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - The Airgap Native Packager Manager for Kubernetes
 - [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP by Checkmarx Core project
 - [anothrNick/github-tag-action](https://github.com/anothrNick/github-tag-action) - A Github Action to tag a repo on merge.
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
@@ -1534,6 +1536,7 @@
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [itaysk/kubectl-neat](https://github.com/itaysk/kubectl-neat) - Clean up Kubernetes yaml and json output to make it readable
 - [chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes.
+- [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [gateway-experiments/hadoop-yarn-api-python-client](https://github.com/gateway-experiments/hadoop-yarn-api-python-client) - Python client for Hadoop® YARN API
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -1550,6 +1553,7 @@
 - [rodrigo-brito/gocity](https://github.com/rodrigo-brito/gocity) - :bar_chart: Code City metaphor for visualizing Go source code in 3D
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the Open Cloud Security platform for AWS, Azure, GCP, Kubernetes, M365 and more. It helps for continuous monitoring, security assessments & audits, incident response, compliance, hardening 
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
 - [sahat/hackathon-starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications
@@ -3004,6 +3008,7 @@
 - [ilhammeidi/dandelion-starter](https://github.com/ilhammeidi/dandelion-starter) - Dandelion Starter - React Dashboard Starter Template
 - [Musish/Musish](https://github.com/Musish/Musish) - Apple Music...ish
 - [hql287/Manta](https://github.com/hql287/Manta) - 🎉 Flexible invoicing desktop app with beautiful & customizable templates.
+- [nikitavoloboev/myflow](https://github.com/nikitavoloboev/myflow) - Place to share & store what you use
 - [ks888/LambStatus](https://github.com/ks888/LambStatus) - [Maintenance mode] Serverless Status Page System
 - [rodrigo-brito/gocity](https://github.com/rodrigo-brito/gocity) - :bar_chart: Code City metaphor for visualizing Go source code in 3D
 
@@ -3463,6 +3468,19 @@
 - [z0mbix/vim-shfmt](https://github.com/z0mbix/vim-shfmt) - Vim plugin for shfmt (https://github.com/mvdan/sh)
 - [sheerun/vim-polyglot](https://github.com/sheerun/vim-polyglot) - A solid language pack for Vim.
 
+## visualization 
+
+- [imsnif/diskonaut](https://github.com/imsnif/diskonaut) - Terminal disk space navigator 🔭
+- [im2nguyen/rover](https://github.com/im2nguyen/rover) - Interactive Terraform visualization. State and configuration explorer.
+- [noriah/catnip](https://github.com/noriah/catnip) - terminal audio visualizer for linux/unix/macOS/windblows*
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
+- [ryanoasis/vim-devicons](https://github.com/ryanoasis/vim-devicons) - Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more
+- [weaveworks/scope](https://github.com/weaveworks/scope) - Monitoring, visualisation & management for Docker & Kubernetes
+- [rilleralle/k8s-graph](https://github.com/rilleralle/k8s-graph) - Visualize your Kubernetes (k8s) cluster
+- [cytoscape/cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (network) library for visualisation and analysis
+- [markusschanta/awesome-jupyter](https://github.com/markusschanta/awesome-jupyter) - A curated list of awesome Jupyter projects, libraries and resources
+- [rodrigo-brito/gocity](https://github.com/rodrigo-brito/gocity) - :bar_chart: Code City metaphor for visualizing Go source code in 3D
+
 ## vpn 
 
 - [ivpn/desktop-app](https://github.com/ivpn/desktop-app) - Official IVPN Desktop app
@@ -3547,7 +3565,6 @@
 
 ## wordpress 
 
-- [dorzki/slack-notifications](https://github.com/dorzki/slack-notifications) - Get WordPress notifications to your team's Slack channel.
 - [mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites](https://github.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites) - This repository contains a list of all web sites I come across that are either hacked with or purposefully hosting malware, ransomware, viruses or trojans.
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 
