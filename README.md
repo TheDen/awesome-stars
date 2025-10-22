@@ -71,6 +71,7 @@
 
 ## Batchfile 
 
+- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 - [FadeMind/hosts.extras](https://github.com/FadeMind/hosts.extras) - Extra rules for StevenBlack's hosts project [ https://git.io/Je0XR ] See also hosts.whitelists [ https://git.io/J3bdI ]
 
 ## Bikeshed 
@@ -823,7 +824,6 @@
 
 ## PowerShell 
 
-- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 - [beatcracker/toptout](https://github.com/beatcracker/toptout) - 📡 Easily opt-out from telemetry collection
 
 ## Prolog 
