@@ -397,7 +397,6 @@
 - [vrothberg/vgrep](https://github.com/vrothberg/vgrep) - a user-friendly pager for grep
 - [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git
 - [grundleborg/slack-advanced-exporter](https://github.com/grundleborg/slack-advanced-exporter) - A tool for exporting additional data from Slack that is missing from the official data export.
-- [nikivdev/go](https://github.com/nikivdev/go) - Go tools, libraries and other code
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [Shopify/kubeaudit](https://github.com/Shopify/kubeaudit) - kubeaudit helps you audit your Kubernetes clusters against common security controls
 - [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
@@ -1139,6 +1138,7 @@
 - [sbstp/kubie](https://github.com/sbstp/kubie) - A more powerful alternative to kubectx and kubens
 - [Eoin-McMahon/blindfold](https://github.com/Eoin-McMahon/blindfold) - 🔎 Gitignore file generator written in rust
 - [gsquire/topngx](https://github.com/gsquire/topngx) - top for NGINX
+- [nikivdev/rust](https://github.com/nikivdev/rust) - Rust tools, libraries and other code
 - [nikivdev/flow](https://github.com/nikivdev/flow) - Project level config for insanely fast feedback loops
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket) - An operating system designed for hosting containers
