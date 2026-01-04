@@ -498,6 +498,7 @@
 
 ## JavaScript 
 
+- [nitaybz/homebridge-sensibo-ac](https://github.com/nitaybz/homebridge-sensibo-ac) - Homebridge plugin for Sensibo - Smart AC Control
 - [homebridge-plugins/homebridge-http-switch](https://github.com/homebridge-plugins/homebridge-http-switch) - Powerful http switch for Homebridge: https://github.com/homebridge/homebridge
 - [ebaauw/homebridge-hue](https://github.com/ebaauw/homebridge-hue) - Homebridge plugin for Philips Hue
 - [learnk8s/xlskubectl](https://github.com/learnk8s/xlskubectl) - xlskubectl — a spreadsheet to control your Kubernetes cluster
