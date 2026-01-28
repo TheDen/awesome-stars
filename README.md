@@ -1315,7 +1315,7 @@
 - [agneym/generate-og-image](https://github.com/agneym/generate-og-image) - Generate open graph images with Github Action from Markdown files
 - [dedoussis/icloud-hide-my-email-browser-extension](https://github.com/dedoussis/icloud-hide-my-email-browser-extension) - Enjoy iCloud's Hide My Email service in your favourite browser
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
-- [sellflow/sellflow](https://github.com/sellflow/sellflow) - A beautiful, customizable open-source mobile app template for your Shopify storefront!
+- [sstur/sellflow](https://github.com/sstur/sellflow) - A beautiful, customizable open-source mobile app template for your Shopify storefront!
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
 - [getezy/ezy](https://github.com/getezy/ezy) - 🔥 GUI client for gRPC/gRPC-Web
 - [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
