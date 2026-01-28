@@ -2580,7 +2580,7 @@
 - [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
 - [lra/mackup](https://github.com/lra/mackup) - Backup and keep your application settings in sync.
 - [mrowa44/emojify](https://github.com/mrowa44/emojify) - Emoji on the command line :scream:
-- [sellflow/sellflow](https://github.com/sellflow/sellflow) - A beautiful, customizable open-source mobile app template for your Shopify storefront!
+- [sstur/sellflow](https://github.com/sstur/sellflow) - A beautiful, customizable open-source mobile app template for your Shopify storefront!
 - [feracommerce/shopify_app_detector](https://github.com/feracommerce/shopify_app_detector) - Shopify App Detector chrome extension that can show you what theme and Shopify apps a store is using.
 - [polarisZhao/awesome-face](https://github.com/polarisZhao/awesome-face) - 😎 face releated algorithm, dataset and paper
 - [huggingface/accelerate](https://github.com/huggingface/accelerate) - 🚀 A simple way to launch, train, and use PyTorch models on almost any device and distributed configuration, automatic mixed precision (including fp8), and easy-to-configure FSDP and DeepSpeed support
