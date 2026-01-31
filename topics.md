@@ -870,6 +870,7 @@
 
 ## cpp 
 
+- [jpd002/Play-](https://github.com/jpd002/Play-) - Play! - PlayStation2 Emulator
 - [puremourning/vimspector](https://github.com/puremourning/vimspector) - vimspector - A multi-language debugging system for Vim
 - [official-stockfish/Stockfish](https://github.com/official-stockfish/Stockfish) - A free and strong UCI chess engine
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
@@ -1184,6 +1185,7 @@
 
 ## emulator 
 
+- [jpd002/Play-](https://github.com/jpd002/Play-) - Play! - PlayStation2 Emulator
 - [86Box/86Box](https://github.com/86Box/86Box) - Emulator of x86-based machines.
 - [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance) - iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started:  https://wiki.provenance-emu.com  |
 - [stenzek/duckstation](https://github.com/stenzek/duckstation) - Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64
