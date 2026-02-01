@@ -2446,6 +2446,7 @@
 
 ## others 
 
+- [jamylak/vsdf](https://github.com/jamylak/vsdf) - Vulkan SDF Renderer + Video Recorder + Hot Reloader
 - [basecamp/once-campfire](https://github.com/basecamp/once-campfire) - 
 - [huseyinbabal/taws](https://github.com/huseyinbabal/taws) - Terminal UI for AWS (taws) - A terminal-based AWS resource viewer and manager
 - [nitaybz/homebridge-sensibo-ac](https://github.com/nitaybz/homebridge-sensibo-ac) - Homebridge plugin for Sensibo - Smart AC Control
