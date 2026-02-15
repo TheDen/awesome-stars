@@ -2445,6 +2445,7 @@
 
 ## others 
 
+- [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets
 - [batocera-linux/batocera.linux](https://github.com/batocera-linux/batocera.linux) - batocera.linux
 - [jamylak/vsdf](https://github.com/jamylak/vsdf) - Vulkan SDF Renderer + Video Recorder + Hot Reloader
 - [basecamp/once-campfire](https://github.com/basecamp/once-campfire) - 
