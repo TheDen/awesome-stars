@@ -288,6 +288,7 @@
 
 - [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
+- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 
 ## algorithm 
 
@@ -836,7 +837,6 @@
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [gsquire/topngx](https://github.com/gsquire/topngx) - top for NGINX
 - [smallhadroncollider/brok](https://github.com/smallhadroncollider/brok) - Find broken links in text documents
-- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
@@ -1476,7 +1476,6 @@
 - [vrothberg/vgrep](https://github.com/vrothberg/vgrep) - a user-friendly pager for grep
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [buildkite-plugins/golang-cross-compile-buildkite-plugin](https://github.com/buildkite-plugins/golang-cross-compile-buildkite-plugin) - ✨ Cross-Compile Go binaries across multiple operating system, architecture and Go versions in parallel
-- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [starlight-go/starlight](https://github.com/starlight-go/starlight) - a go wrapper for google's starlark embedded python language
 - [chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes.
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
