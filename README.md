@@ -565,7 +565,6 @@
 - [james-proxy/james](https://github.com/james-proxy/james) - Web Debugging Proxy Application
 - [ThatGuySam/doesitarm](https://github.com/ThatGuySam/doesitarm) - 🦾 A list of reported app support for Apple Silicon as well as Apple M4 and M3 Ultra Macs
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [knoopx/plex-music](https://github.com/knoopx/plex-music) - Web/Desktop app for streaming music from your Plex Media Server
 - [IrosTheBeggar/mStream](https://github.com/IrosTheBeggar/mStream) - The easiest music streaming server available
 - [andrewrk/juice](https://github.com/andrewrk/juice) - Juice inlines CSS stylesheets into your HTML source.
@@ -1290,6 +1289,7 @@
 - [amiantos/pibar](https://github.com/amiantos/pibar) - PiBar for Pi-hole - Manage your Pi-hole(s) from your macOS menu bar!
 - [billycastelli/Silicon-Info](https://github.com/billycastelli/Silicon-Info) - Mac menu bar tool to view the architecture of the running application
 - [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command-line interface
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [bitgapp/eqMac](https://github.com/bitgapp/eqMac) - macOS  System-wide Audio Equalizer & Volume Mixer  🎧
 - [Clipy/Clipy](https://github.com/Clipy/Clipy) - Clipboard extension app for macOS.
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
