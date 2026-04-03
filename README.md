@@ -303,6 +303,7 @@
 - [caseymrm/menuet](https://github.com/caseymrm/menuet) - Go library to create menubar apps- programs that live only in OSX's NSStatusBar
 - [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver
 - [mattolenik/hclq](https://github.com/mattolenik/hclq) - Command-line processor for HashiCorp config files, like sed for HCL — Terraform, Consul, Nomad, Vault
+- [convos-chat/convos](https://github.com/convos-chat/convos) - Convos :busts_in_silhouette: is the simplest way to use IRC in your browser
 - [ipfs/kubo](https://github.com/ipfs/kubo) - An IPFS implementation in Go
 - [SecureAuthCorp/oauth2c](https://github.com/SecureAuthCorp/oauth2c) - User-friendly OAuth2 CLI
 - [helm/chart-releaser](https://github.com/helm/chart-releaser) - Hosting Helm Charts via GitHub Pages and Releases
@@ -836,7 +837,6 @@
 
 ## Perl 
 
-- [convos-chat/convos](https://github.com/convos-chat/convos) - Convos :busts_in_silhouette: is the simplest way to use IRC in your browser
 - [holzschu/a-shell](https://github.com/holzschu/a-shell) - A terminal for iOS, with multiple windows
 - [dkogan/feedgnuplot](https://github.com/dkogan/feedgnuplot) - Tool to plot realtime and stored data from the commandline, using gnuplot.
 - [szTheory/exifcleaner](https://github.com/szTheory/exifcleaner) - Cross-platform desktop GUI app to clean image metadata
