@@ -1006,7 +1006,7 @@
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
 - [mwouts/jupytext](https://github.com/mwouts/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
-- [iniqua/plecost](https://github.com/iniqua/plecost) - Plecost - Wordpress finger printer Tool
+- [Plecost/plecost](https://github.com/Plecost/plecost) - Plecost - Wordpress finger printer Tool
 - [hfaran/slack-export-viewer](https://github.com/hfaran/slack-export-viewer) - A Slack Export archive viewer that allows you to easily view and share your Slack team's export
 - [aws/aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
