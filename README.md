@@ -141,7 +141,7 @@
 
 ## C# # 
 
-- [ErsatzTV/ErsatzTV-legacy](https://github.com/ErsatzTV/ErsatzTV-legacy) - Open-source platform that transforms your personal media library into live, custom TV channels.
+- [ErsatzTV/legacy](https://github.com/ErsatzTV/legacy) - Open-source platform that transforms your personal media library into live, custom TV channels.
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) - Looks and smells like Sonarr but made for music.
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [lachesis/scallion](https://github.com/lachesis/scallion) - GPU-based Onion Hash generator
