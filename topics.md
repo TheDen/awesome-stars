@@ -850,6 +850,7 @@
 
 ## compiler 
 
+- [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
 - [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) - A compiler from Go to JavaScript for running Go code in a browser
 - [Pypperoni/pypperoni](https://github.com/Pypperoni/pypperoni) - Pypperoni Python Compiler Source Code
 - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.13. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
@@ -1147,6 +1148,7 @@
 
 ## documentation 
 
+- [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [pdoc3/pdoc](https://github.com/pdoc3/pdoc) - 🐍 ➡️ 📜  Auto-generate API documentation for Python projects
 - [unicodeveloper/awesome-documentation-tools](https://github.com/unicodeveloper/awesome-documentation-tools) - :fire: :books: All the tools, processes and resources you need to create an awesome API & Project documentation
@@ -2207,6 +2209,7 @@
 
 ## markdown 
 
+- [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
 - [matthsena/AlcheMark](https://github.com/matthsena/AlcheMark) - Your files ready for Gen AI ✨🚀 AlcheMark is a lightweight PDF to Markdown, alchemical-inspired toolkit that transmutes PDF documents into structured Markdown pages—complete with rich metadata and name
 - [yshavit/mdq](https://github.com/yshavit/mdq) - like jq but for Markdown: find specific elements in a md doc
 - [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
@@ -2562,7 +2565,7 @@
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer with a focus on textbooks and research papers
 - [leoadberg/UnknownPleasures](https://github.com/leoadberg/UnknownPleasures) - Python script that makes the Unknown Pleasures album art
-- [cursor/cursor](https://github.com/cursor/cursor) - The AI Code Editor
+- [cursor/cursor](https://github.com/cursor/cursor) - 
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [texttron/hyde](https://github.com/texttron/hyde) - HyDE: Precise Zero-Shot Dense Retrieval without Relevance Labels
 - [asimihsan/cwl-mount](https://github.com/asimihsan/cwl-mount) - Mount AWS CloudWatch logs as a file system
