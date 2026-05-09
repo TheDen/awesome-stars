@@ -1763,6 +1763,7 @@
 
 ## java 
 
+- [m35/jpsxdec](https://github.com/m35/jpsxdec) - jPSXdec: cross-platform PlayStation 1 audio and video converter
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Browse media content with your own rules on Android TV
 - [puremourning/vimspector](https://github.com/puremourning/vimspector) - vimspector - A multi-language debugging system for Vim
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.
@@ -3148,6 +3149,7 @@
 
 ## reverse-engineering 
 
+- [m35/jpsxdec](https://github.com/m35/jpsxdec) - jPSXdec: cross-platform PlayStation 1 audio and video converter
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple's ecosystem.
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
@@ -3590,6 +3592,7 @@
 
 ## video 
 
+- [m35/jpsxdec](https://github.com/m35/jpsxdec) - jPSXdec: cross-platform PlayStation 1 audio and video converter
 - [emarsden/dash-mpd-cli](https://github.com/emarsden/dash-mpd-cli) - Download media content from a DASH-MPEG or DASH-WebM MPD manifest
 - [henrygd/bigger-picture](https://github.com/henrygd/bigger-picture) - JavaScript lightbox gallery for images, video, audio, iframes, html. Zoomable, responsive, accessible, lightweight.
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data
