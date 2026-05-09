@@ -488,6 +488,7 @@
 
 ## Java 
 
+- [m35/jpsxdec](https://github.com/m35/jpsxdec) - jPSXdec: cross-platform PlayStation 1 audio and video converter
 - [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP by Checkmarx Core project
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Browse media content with your own rules on Android TV
 - [ongres/dyna53](https://github.com/ongres/dyna53) - Route53 as a database, with DynamoDB-compatible API
