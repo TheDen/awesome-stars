@@ -659,7 +659,6 @@
 ## Makefile 
 
 - [pulumiverse/pulumi-talos](https://github.com/pulumiverse/pulumi-talos) - Pulumi provider for Talos
-- [siderolabs/contrib](https://github.com/siderolabs/contrib) - talos/sidero setup examples
 - [hectorm/docker-qemu-win2000](https://github.com/hectorm/docker-qemu-win2000) - A Docker image for Windows 2000 Advanced Server with SP4.
 - [kostya/benchmarks](https://github.com/kostya/benchmarks) - Some benchmarks of different languages
 
@@ -1184,6 +1183,7 @@
 - [crate-ci/gh-install](https://github.com/crate-ci/gh-install) - Install from github releases
 - [phusion/baseimage-docker](https://github.com/phusion/baseimage-docker) - A minimal Ubuntu base image modified for Docker-friendliness
 - [aws-containers/amazon-ecs-exec-checker](https://github.com/aws-containers/amazon-ecs-exec-checker) - 🚀 Pre-flight checks for ECS Exec
+- [siderolabs/contrib](https://github.com/siderolabs/contrib) - talos/sidero setup examples
 - [anothrNick/github-tag-action](https://github.com/anothrNick/github-tag-action) - A Github Action to tag a repo on merge.
 - [sergeysova/jq-action](https://github.com/sergeysova/jq-action) - This lets you do jq operations in GitHub Actions.
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
