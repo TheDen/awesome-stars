@@ -501,6 +501,7 @@
 
 ## JavaScript 
 
+- [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.
 - [nitaybz/homebridge-sensibo-ac](https://github.com/nitaybz/homebridge-sensibo-ac) - Homebridge plugin for Sensibo - Smart AC Control
 - [homebridge-plugins/homebridge-http-switch](https://github.com/homebridge-plugins/homebridge-http-switch) - Powerful http switch for Homebridge: https://github.com/homebridge/homebridge
 - [ebaauw/homebridge-hue](https://github.com/ebaauw/homebridge-hue) - Homebridge plugin for Philips Hue
