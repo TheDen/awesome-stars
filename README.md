@@ -1120,7 +1120,7 @@
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
-- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Run local code as if it were a pod in a remote Kubernetes cluster: real env vars, DNS, network, traffic. Used by AI coding agents and developers.
+- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Run any process, on your machine or in an AI agent's environment, as if it were a pod in your Kubernetes cluster: real env vars, DNS, network, traffic. Used by developers and AI coding agents.
 - [pkolaczk/fclones](https://github.com/pkolaczk/fclones) - Efficient Duplicate File Finder
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
