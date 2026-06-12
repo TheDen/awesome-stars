@@ -543,7 +543,7 @@
 - [jparise/chrome-utm-stripper](https://github.com/jparise/chrome-utm-stripper) - Browser extension that strips Google Analytics (UTM) parameters, and various other click tracking tokens, from URL query strings
 - [tuya/tuya-homebridge](https://github.com/tuya/tuya-homebridge) - Homebridge custom plugin for controlling Powered by Tuya (PBT) devices in HomeKit. This plugin is officially maintained by the Tuya Developer Team.
 - [showdownjs/showdown](https://github.com/showdownjs/showdown) - A bidirectional Markdown to HTML to Markdown converter written in Javascript
-- [yuis-ice/visited](https://github.com/yuis-ice/visited) - Securely collect browsing history over browsers.
+- [didvc/visited](https://github.com/didvc/visited) - Securely collect browsing history over browsers.
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [movsim/traffic-simulation-de](https://github.com/movsim/traffic-simulation-de) - Source code for javascript simulation of website
 - [garywill/aboutconfig-menu](https://github.com/garywill/aboutconfig-menu) - Shortcuts to settings in about:config (universal), through a button on toolbar. Firefox userChrome script 🛠️
