@@ -2469,6 +2469,7 @@
 
 ## others 
 
+- [RoPieee/RoPieee](https://github.com/RoPieee/RoPieee) - An easy-to-use Raspberry Pi image for network audio streaming solutions
 - [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.
 - [hardbyte/pgroles](https://github.com/hardbyte/pgroles) - Declarative PostgreSQL role graph manager. Define roles, memberships, object privileges, and default privileges in YAML.
 - [Sikarugir-App/Sikarugir](https://github.com/Sikarugir-App/Sikarugir) - A tool used to make user-friendly wine wrapped ports of Windows software for macOS.
