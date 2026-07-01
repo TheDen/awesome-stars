@@ -571,7 +571,7 @@
 - [lgraubner/sitemap-generator-cli](https://github.com/lgraubner/sitemap-generator-cli) - Creates an XML-Sitemap by crawling a given site.
 - [aFarkas/lazysizes](https://github.com/aFarkas/lazysizes) - High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any visibility changes triggered through user interaction, CSS or JavaScript without co
 - [hql287/Manta](https://github.com/hql287/Manta) - 🎉 Flexible invoicing desktop app with beautiful & customizable templates.
-- [dolegi/222](https://github.com/dolegi/222) - 222. Dark mode. Everywhere. 222 bytes of js to make any website dark
+- [dolegi/222](https://github.com/dolegi/222) - 222. Dark mode everywhere. 222 bytes of js to make any website dark
 - [xat/castnow](https://github.com/xat/castnow) - commandline chromecast player
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [capnmidnight/Calla](https://github.com/capnmidnight/Calla) - Virtual Meetups through Jitsi
@@ -631,7 +631,7 @@
 - [XavierXiao/Dreambooth-Stable-Diffusion](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion) - Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) with Stable Diffusion
 - [norvig/pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills.
 - [kenkc1/ml-projects](https://github.com/kenkc1/ml-projects) - Personal machine learning projects.
-- [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content
+- [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes Community Documentation
 - [intel/BigDL](https://github.com/intel/BigDL) - BigDL: Distributed TensorFlow, Keras and PyTorch on Apache Spark/Flink & Ray
 - [Spaxe/roguelike-universe](https://github.com/Spaxe/roguelike-universe) - Understanding game design inspiration of roguelike games via web scraping and network analysis.
 - [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺 🇧🇷 🇪🇸
