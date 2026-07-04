@@ -466,7 +466,6 @@
 ## HTML 
 
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) - Open-Source Unified Vulnerability Management, DevSecOps & ASPM
-- [ClickHouse/ClickBench](https://github.com/ClickHouse/ClickBench) - ClickBench: a Benchmark For Analytical Databases
 - [vivirenremoto/doomcaptcha](https://github.com/vivirenremoto/doomcaptcha) - Captchas don't have to be boring
 - [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel
 - [98mprice/PSone.css](https://github.com/98mprice/PSone.css) - 
@@ -1179,6 +1178,7 @@
 - [SilentNightx/VitaDockPlus](https://github.com/SilentNightx/VitaDockPlus) - VitaDock+ is a Linux distribution for Raspberry Pi used to create a PlayStation Vita docking station for video output to a TV.
 - [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action) - Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities
 - [Rakurri/rakurri-brush-set-for-krita](https://github.com/Rakurri/rakurri-brush-set-for-krita) - Free brush set for Krita!
+- [ClickHouse/ClickBench](https://github.com/ClickHouse/ClickBench) - ClickBench: a Benchmark For Analytical Databases
 - [ChuckPa/DBRepair](https://github.com/ChuckPa/DBRepair) - Database repair utility for Plex Media Server databases
 - [007revad/Synology_M2_volume](https://github.com/007revad/Synology_M2_volume) - Easily create an M.2 volume on Synology NAS
 - [007revad/Synology_HDD_db](https://github.com/007revad/Synology_HDD_db) - Add your HDD, SSD and NVMe drives to your Synology's compatible drive database and a lot more
