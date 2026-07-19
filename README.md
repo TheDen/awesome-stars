@@ -1012,7 +1012,6 @@
 - [lorenzodifuccia/safaribooks](https://github.com/lorenzodifuccia/safaribooks) - Download and generate EPUB of your favorite books from O'Reilly Learning (aka Safari Books Online) library.
 - [pytest-buildkite/pytest-buildkite](https://github.com/pytest-buildkite/pytest-buildkite) - Plugin for pytest that automatically publishes coverage and pytest report annotations to Buildkite
 - [pybpc/f2format](https://github.com/pybpc/f2format) - Backport compiler for Python 3.6 formatted string literals (f-string).
-- [ikamensh/flynt](https://github.com/ikamensh/flynt) - A tool to automatically convert old string literal formatting to f-strings
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [gateway-experiments/hadoop-yarn-api-python-client](https://github.com/gateway-experiments/hadoop-yarn-api-python-client) - Python client for Hadoop® YARN API
 - [stellargraph/stellargraph](https://github.com/stellargraph/stellargraph) - StellarGraph - Machine Learning on Graphs
@@ -1160,6 +1159,7 @@
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket) - An operating system designed for hosting containers
 - [allthemusicllc/atm-cli](https://github.com/allthemusicllc/atm-cli) - Command line tool for generating and working with MIDI files.
+- [ikamensh/flynt](https://github.com/ikamensh/flynt) - A tool to automatically convert old string literal formatting to f-strings
 - [samuela/rustybox](https://github.com/samuela/rustybox) - A free-range, non-GMO fork of busybox in 100% Rust 🦀
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
