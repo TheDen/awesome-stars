@@ -2615,7 +2615,6 @@
 - [peterdemin/openai-cli](https://github.com/peterdemin/openai-cli) - Command-line client for OpenAI APIs
 - [icholy/codegpt](https://github.com/icholy/codegpt) - A unixy GPT interface
 - [hardbyte/qabot](https://github.com/hardbyte/qabot) - CLI based natural language queries on local or remote data
-- [rtunazzz/hidemyemail-generator](https://github.com/rtunazzz/hidemyemail-generator) - Generator for Apple's HideMyEmail service. Generate multiple iCloud emails with ease!
 - [nathom/streamrip](https://github.com/nathom/streamrip) - A scriptable music downloader for Qobuz, Tidal, SoundCloud, and Deezer
 - [client9/misspell](https://github.com/client9/misspell) - Correct commonly misspelled English words in source files
 - [DoTheEvo/ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch) - Linux file search, instant results as you type
@@ -2938,6 +2937,7 @@
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 - [dedoussis/icloud-hide-my-email-browser-extension](https://github.com/dedoussis/icloud-hide-my-email-browser-extension) - Enjoy iCloud's Hide My Email service in your favourite browser
+- [rtunazzz/hidemyemail-generator](https://github.com/rtunazzz/hidemyemail-generator) - Bulk-generate iCloud Hide My Email addresses. Native macOS app and cross-platform CLI with batch generation, scheduling, a local inbox with code extraction, as well as iCloud China support.
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [lissy93/personal-security-checklist](https://github.com/lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
