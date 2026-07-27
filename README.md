@@ -574,7 +574,6 @@
 - [xat/castnow](https://github.com/xat/castnow) - commandline chromecast player
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [capnmidnight/Calla](https://github.com/capnmidnight/Calla) - Virtual Meetups through Jitsi
-- [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) - GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
 - [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
 - [awesome-bootstrap-org/awesome-bootstrap](https://github.com/awesome-bootstrap-org/awesome-bootstrap) - ✨  Awesome - A curated list of amazing Bootstrap tools and themes.
 - [pixelcog/parallax.js](https://github.com/pixelcog/parallax.js) - Simple parallax scrolling effect inspired by Spotify.com implemented as a jQuery plugin
@@ -893,7 +892,7 @@
 - [jorgebastida/awslogs](https://github.com/jorgebastida/awslogs) - AWS CloudWatch logs for Humans™
 - [peterdemin/openai-cli](https://github.com/peterdemin/openai-cli) - Command-line client for OpenAI APIs
 - [hardbyte/qabot](https://github.com/hardbyte/qabot) - CLI based natural language queries on local or remote data
-- [rtunazzz/hidemyemail-generator](https://github.com/rtunazzz/hidemyemail-generator) - Generator for Apple's HideMyEmail service. Generate multiple iCloud emails with ease!
+- [rtunazzz/hidemyemail-generator](https://github.com/rtunazzz/hidemyemail-generator) - Bulk-generate iCloud Hide My Email addresses. Native macOS app and cross-platform CLI with batch generation, scheduling, a local inbox with code extraction, as well as iCloud China support.
 - [nathom/streamrip](https://github.com/nathom/streamrip) - A scriptable music downloader for Qobuz, Tidal, SoundCloud, and Deezer
 - [DoTheEvo/ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch) - Linux file search, instant results as you type
 - [toddmotto/public-apis](https://github.com/toddmotto/public-apis) - A collective list of free APIs
@@ -1367,6 +1366,7 @@
 - [itslenny/slack-emoji-import](https://github.com/itslenny/slack-emoji-import) - Simple bulk emoji importer for slack
 - [nautilusapp/nautilus](https://github.com/nautilusapp/nautilus) - A Docker Compose Charting Tool
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+- [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) - GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
 - [jupyterlab/jupyterlab-github](https://github.com/jupyterlab/jupyterlab-github) - GitHub integration for JupyterLab
 - [rcjsuen/dockerfile-utils](https://github.com/rcjsuen/dockerfile-utils) - A library and command line interface for formatting and linting Dockerfiles.
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers
