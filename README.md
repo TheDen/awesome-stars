@@ -892,7 +892,6 @@
 - [jorgebastida/awslogs](https://github.com/jorgebastida/awslogs) - AWS CloudWatch logs for Humans™
 - [peterdemin/openai-cli](https://github.com/peterdemin/openai-cli) - Command-line client for OpenAI APIs
 - [hardbyte/qabot](https://github.com/hardbyte/qabot) - CLI based natural language queries on local or remote data
-- [rtunazzz/hidemyemail-generator](https://github.com/rtunazzz/hidemyemail-generator) - Bulk-generate iCloud Hide My Email addresses. Native macOS app and cross-platform CLI with batch generation, scheduling, a local inbox with code extraction, as well as iCloud China support.
 - [nathom/streamrip](https://github.com/nathom/streamrip) - A scriptable music downloader for Qobuz, Tidal, SoundCloud, and Deezer
 - [DoTheEvo/ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch) - Linux file search, instant results as you type
 - [toddmotto/public-apis](https://github.com/toddmotto/public-apis) - A collective list of free APIs
@@ -1268,6 +1267,7 @@
 - [SongStitch/songstitch-ios](https://github.com/SongStitch/songstitch-ios) - A blazingly fast iOS app for generating LastFM collages.
 - [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Protect your SSH keys with your Mac's Secure Enclave
+- [rtunazzz/hidemyemail-generator](https://github.com/rtunazzz/hidemyemail-generator) - Bulk-generate iCloud Hide My Email addresses. Native macOS app and cross-platform CLI with batch generation, scheduling, a local inbox with code extraction, as well as iCloud China support.
 - [npna/CoreMLPlayer](https://github.com/npna/CoreMLPlayer) - Try CoreML models on multiple images and videos easily and quickly
 - [Schlaubischlump/LocationSimulator](https://github.com/Schlaubischlump/LocationSimulator) - MacOS application to spoof / fake / mock your iOS / iPadOS or iPhoneSimulator device location.  WatchOS and TvOS are partially supported.
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
