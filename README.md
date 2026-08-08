@@ -18,7 +18,6 @@
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Emacs Lisp](#emacs-lisp)
-- [Fluent](#fluent)
 - [FreeMarker](#freemarker)
 - [Go](#go)
 - [Go Template](#go-template)
@@ -224,10 +223,6 @@
 ## Emacs Lisp 
 
 - [saurabhbhatia/emacs.d](https://github.com/saurabhbhatia/emacs.d) - My emacs config
-
-## Fluent 
-
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 
 ## FreeMarker 
 
@@ -473,6 +468,7 @@
 - [bradleytaunt/1mb-club](https://github.com/bradleytaunt/1mb-club) - An exclusive members-only club for web pages weighing less than 1 megabyte
 - [nkoehring/250kb-club](https://github.com/nkoehring/250kb-club) - An exclusive members-only club for web pages weighing no more than 250kb. Inspired by Bredley Taunts 1MB.club
 - [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji) - Open source emojis for designers, developers and everyone else!
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [AdguardTeam/AdGuardMiniForMac](https://github.com/AdguardTeam/AdGuardMiniForMac) - AdGuard Mini for macOS
 - [miziomon/awesome-wordpress](https://github.com/miziomon/awesome-wordpress) - A curated list of amazingly awesome WordPress resources, themes, plugins and shiny things. Inspired by awesome-php.
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 🧠 Laws, Theories, Principles and Patterns for developers and technologists.
@@ -853,7 +849,7 @@
 - [matthsena/AlcheMark](https://github.com/matthsena/AlcheMark) - Your files ready for Gen AI ✨🚀 AlcheMark is a lightweight PDF to Markdown, alchemical-inspired toolkit that transmutes PDF documents into structured Markdown pages—complete with rich metadata and name
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
 - [rtts/djhtml](https://github.com/rtts/djhtml) - Django/Jinja template indenter
-- [djlint/djLint](https://github.com/djlint/djLint) - ✨ HTML Template Linter and Formatter. Django, Jinja, Askama, Tera, Liquid, Nunjucks, Twig, Handlebars, Mustache, GoLang, Angular
+- [djlint/djLint](https://github.com/djlint/djLint) - HTML template formatter and linter for Django, Jinja, Twig, Nunjucks, Handlebars, Liquid, Go templates, Mustache, Tera, Askama and Angular. Formats markup and template syntax together, and lints for a
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 - [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block.
