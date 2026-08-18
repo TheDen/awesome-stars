@@ -1044,7 +1044,7 @@
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 - [nbedos/termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
 - [Miserlou/Zappa](https://github.com/Miserlou/Zappa) - Serverless Python
-- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment.
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment. Connect your agents now and build on the Agentic Cloud 
 - [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [HDE/python-lambda-local](https://github.com/HDE/python-lambda-local) - Run AWS Lambda function on local machine
@@ -1056,7 +1056,7 @@
 - [newsapps/beeswithmachineguns](https://github.com/newsapps/beeswithmachineguns) - A utility for arming (creating) many bees (micro EC2 instances) to attack (load test) targets (web applications).
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [vulnersCom/getsploit](https://github.com/vulnersCom/getsploit) - Command line utility for searching and downloading exploits
+- [vulnersCom/getsploit](https://github.com/vulnersCom/getsploit) - Search and download public exploits from the Vulners database — online, or fully offline from a local SQLite FTS5 index.
 - [yandex/gixy](https://github.com/yandex/gixy) - Nginx configuration static analyzer
 - [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
 
