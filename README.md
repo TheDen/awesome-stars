@@ -244,7 +244,7 @@
 - [google/yamlfmt](https://github.com/google/yamlfmt) - An extensible command line tool or library to format yaml files.
 - [kelindar/event](https://github.com/kelindar/event) - Simple internal event bus for Go applications
 - [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry
-- [iamhalje/defectdojo-exporter](https://github.com/iamhalje/defectdojo-exporter) - Collects Prometheus metrics for vulnerabilities of each product in DefectDojo
+- [hautestacky/defectdojo-exporter](https://github.com/hautestacky/defectdojo-exporter) - Collects Prometheus metrics for vulnerabilities of each product in DefectDojo
 - [rzane/docker2exe](https://github.com/rzane/docker2exe) - Convert a Docker image to an executable
 - [chromedp/chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
 - [go-echarts/go-echarts](https://github.com/go-echarts/go-echarts) - 🎨 The adorable charts library for Golang.
