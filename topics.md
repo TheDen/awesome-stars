@@ -2518,7 +2518,7 @@
 - [ebaauw/homebridge-hue](https://github.com/ebaauw/homebridge-hue) - Homebridge plugin for Philips Hue
 - [google/yamlfmt](https://github.com/google/yamlfmt) - An extensible command line tool or library to format yaml files.
 - [kelindar/event](https://github.com/kelindar/event) - Simple internal event bus for Go applications
-- [iamhalje/defectdojo-exporter](https://github.com/iamhalje/defectdojo-exporter) - Collects Prometheus metrics for vulnerabilities of each product in DefectDojo
+- [hautestacky/defectdojo-exporter](https://github.com/hautestacky/defectdojo-exporter) - Collects Prometheus metrics for vulnerabilities of each product in DefectDojo
 - [al13n321/nnd](https://github.com/al13n321/nnd) - A debugger for Linux
 - [rzane/docker2exe](https://github.com/rzane/docker2exe) - Convert a Docker image to an executable
 - [hardbyte/spaceracers](https://github.com/hardbyte/spaceracers) - 
