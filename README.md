@@ -1087,7 +1087,7 @@
 
 ## Rust 
 
-- [hardbyte/pgroles](https://github.com/hardbyte/pgroles) - Declarative PostgreSQL role graph manager. Define roles, memberships, object privileges, and default privileges in YAML.
+- [thepartly/pgroles](https://github.com/thepartly/pgroles) - Declarative PostgreSQL role graph manager. Define roles, memberships, object privileges, and default privileges in YAML.
 - [huseyinbabal/taws](https://github.com/huseyinbabal/taws) - Terminal UI for AWS (taws) - A terminal-based AWS resource viewer and manager
 - [emmett-framework/granian](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python applications
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
@@ -1260,6 +1260,7 @@
 
 ## Swift 
 
+- [ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune) - FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource.
 - [nickustinov/itsyhome-macos](https://github.com/nickustinov/itsyhome-macos) - A native macOS menu bar app for controlling your smart home devices.
 - [ninxsoft/Mist](https://github.com/ninxsoft/Mist) - A Mac utility that automatically downloads macOS Firmwares / Installers.
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
