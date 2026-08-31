@@ -393,7 +393,7 @@
 - [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) - Descheduler for Kubernetes
 - [jkcfg/jk](https://github.com/jkcfg/jk) - Configuration as Code with ECMAScript
 - [yolossn/Prometheus-Basics](https://github.com/yolossn/Prometheus-Basics) - Prometheus-Basics is part of Prometheus Docs now,  checkout 👇
-- [saljam/webwormhole](https://github.com/saljam/webwormhole) - Peer authenticated WebRTC.
+- [saljam/webwormhole](https://github.com/saljam/webwormhole) - Peer authenticated WebRTC. A WebRTC-based clone of magic-wormhole.
 - [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - [elves/elvish](https://github.com/elves/elvish) - Powerful scripting language & versatile interactive shell
 - [vrothberg/vgrep](https://github.com/vrothberg/vgrep) - a user-friendly pager for grep
