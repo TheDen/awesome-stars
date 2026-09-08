@@ -762,7 +762,6 @@
 - [jamiehannaford/what-happens-when-k8s](https://github.com/jamiehannaford/what-happens-when-k8s) - 🤔  What happens when I type kubectl run?
 - [myles/awesome-static-generators](https://github.com/myles/awesome-static-generators) - A curated list of static web site generators.
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
-- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Community guide to securing and improving privacy on macOS.
 - [mauhai/awesome-jupyterlab](https://github.com/mauhai/awesome-jupyterlab) - A curated list of awesome JupyterLab extensions and resources
 - [gztchan/awesome-design](https://github.com/gztchan/awesome-design) - 🌟 Curated design resources from all over the world.
 - [buildkite/annotation-tester](https://github.com/buildkite/annotation-tester) - 📝 Test writing Buildkite annotation bodies directly
@@ -1218,6 +1217,7 @@
 - [tanrax/maza-ad-blocking](https://github.com/tanrax/maza-ad-blocking) - Simple, native and efficient local ad blocker. Only Bash.
 - [Hexxeh/rpi-update](https://github.com/Hexxeh/rpi-update) - An easier way to update the firmware of your Raspberry Pi
 - [buildkite-plugins/golang-cross-compile-buildkite-plugin](https://github.com/buildkite-plugins/golang-cross-compile-buildkite-plugin) - ✨ Cross-Compile Go binaries across multiple operating system, architecture and Go versions in parallel
+- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Community guide to securing and improving privacy on macOS.
 - [buildkite-plugins/docker-buildkite-plugin](https://github.com/buildkite-plugins/docker-buildkite-plugin) - 🐳📦 Run any build step in a Docker container
 - [buildkite-plugins/docker-compose-buildkite-plugin](https://github.com/buildkite-plugins/docker-compose-buildkite-plugin) - 🐳⚡️ Run build scripts, and build + push images, w/ Docker Compose
 - [mvanholsteijn/strip-docker-image](https://github.com/mvanholsteijn/strip-docker-image) - Utility to strip Docker images to their bare minimum size.
