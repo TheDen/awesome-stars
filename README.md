@@ -195,6 +195,7 @@
 
 ## Clojure 
 
+- [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - [braidchat/braid](https://github.com/braidchat/braid) - Braid is a team-chat app with a novel UI that leads to better conversations.
 - [jeremykross/konstellate](https://github.com/jeremykross/konstellate) - Free and Open Source GUI to Visualize Kubernetes Applications.
 
