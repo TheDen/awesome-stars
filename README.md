@@ -280,7 +280,7 @@
 - [fatih/color](https://github.com/fatih/color) - Color package for Go (golang)
 - [arttor/helmify](https://github.com/arttor/helmify) - Creates Helm chart from Kubernetes yaml
 - [doitintl/kubeip](https://github.com/doitintl/kubeip) - Assign static public IPs to Kubernetes nodes (GKE, EKS)
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go
 - [securego/gosec](https://github.com/securego/gosec) - Go security checker
 - [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
@@ -826,7 +826,6 @@
 
 - [holzschu/a-shell](https://github.com/holzschu/a-shell) - A terminal for iOS, with multiple windows
 - [dkogan/feedgnuplot](https://github.com/dkogan/feedgnuplot) - Tool to plot realtime and stored data from the commandline, using gnuplot.
-- [szTheory/exifcleaner](https://github.com/szTheory/exifcleaner) - Cross-platform desktop GUI app to clean image metadata
 - [skx/sysadmin-util](https://github.com/skx/sysadmin-util) - Tools for Linux/Unix sysadmins.
 
 ## PowerShell 
@@ -1206,7 +1205,7 @@
 - [samzyy/DB-based-replicated-filesystem](https://github.com/samzyy/DB-based-replicated-filesystem) - 
 - [wynioux/macOS-GateKeeper-Helper](https://github.com/wynioux/macOS-GateKeeper-Helper) - Simple macOS GateKeeper script.
 - [toniblyx/my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.
-- [kboghdady/youTube_ads_4_pi-hole](https://github.com/kboghdady/youTube_ads_4_pi-hole) - YouTube script to add the new Ads list for Pi-hole
+- [kboghdady/youTube_ads_4_pi-hole](https://github.com/kboghdady/youTube_ads_4_pi-hole) - YouTube ad-serving domain blocklist for Pi-hole (v5 & v6), AdGuard Home, pfBlockerNG and other DNS blockers - add one URL and block YouTube ads on every device on your network. Updated daily.
 - [mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites](https://github.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites) - This repository contains a list of all web sites I come across that are either hacked with or purposefully hosting malware, ransomware, viruses or trojans.
 - [mitchellkrogza/nginx-ultimate-bad-bot-blocker](https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker) - Nginx Block Bad Bots, Spam Referrer Blocker, Vulnerability Scanners, User-Agents, Malware, Adware, Ransomware, Malicious Sites, with anti-DDOS, Wordpress Theme Detector Blocking and Fail2Ban Jail for 
 - [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes
@@ -1350,6 +1349,7 @@
 - [will-stone/browserosaurus](https://github.com/will-stone/browserosaurus) - 🦖 The browser prompter for macOS
 - [jacomyal/sigma.js](https://github.com/jacomyal/sigma.js) - A JavaScript library aimed at visualizing graphs of thousands of nodes and edges
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
+- [szTheory/exifcleaner](https://github.com/szTheory/exifcleaner) - Cross-platform desktop GUI app to clean image metadata
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [eveningkid/denodb](https://github.com/eveningkid/denodb) - MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno
 - [fmeringdal/nettu-meet](https://github.com/fmeringdal/nettu-meet) - Open source video conferencing system for tutors.
