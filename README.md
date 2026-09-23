@@ -148,6 +148,7 @@
 
 ## C++ 
 
+- [canonical/multipass](https://github.com/canonical/multipass) - Multipass orchestrates virtual Ubuntu instances
 - [jamylak/vsdf](https://github.com/jamylak/vsdf) - Vulkan SDF Renderer + Video Recorder + Hot Reloader
 - [jpd002/Play-](https://github.com/jpd002/Play-) - Play! - PlayStation2 Emulator
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
