@@ -2561,7 +2561,7 @@
 - [007revad/Synology_HDD_db](https://github.com/007revad/Synology_HDD_db) - Add your HDD, SSD and NVMe drives to your Synology's compatible drive database and a lot more
 - [Bigfoot71/r3d-legacy](https://github.com/Bigfoot71/r3d-legacy) - Advanced 3D rendering library for raylib
 - [bsharper/atv-desktop-remote](https://github.com/bsharper/atv-desktop-remote) - A simple app to allow you to control an Apple TV from your desktop
-- [patrickchugh/terravision](https://github.com/patrickchugh/terravision) - Terravision creates Professional Cloud Architecture Diagrams from your Terraform code automatically. Supports AWS, Google and Azure.
+- [patrickchugh/terravision](https://github.com/patrickchugh/terravision) - Professional cloud architecture diagrams with official AWS, Azure and GCP icons, from Terraform code or a plain JSON graph. MCP server + agent skill.
 - [ckabalan/visualsubnetcalc](https://github.com/ckabalan/visualsubnetcalc) - Visual Subnet Calculator
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [ErsatzTV/legacy](https://github.com/ErsatzTV/legacy) - Open-source platform that transforms your personal media library into live, custom TV channels.
