@@ -528,6 +528,7 @@
 
 - [ClickHouse/ClickBench](https://github.com/ClickHouse/ClickBench) - ClickBench: a Benchmark For Analytical Databases
 - [elpy1/ssh-over-ssm](https://github.com/elpy1/ssh-over-ssm) - SSH over AWS SSM. No bastions or public-facing instances. SSH user management through IAM. No requirement to store SSH keys locally or on server.
+- [patrickchugh/terravision](https://github.com/patrickchugh/terravision) - Cloud architecture diagrams in both directions: AI prompt or JSON to diagram, diagram to Terraform via MCP server, and Terraform to diagram via CLI or CI/CD. Using Official AWS, Azure and GCP icons.
 - [doitintl/kubeip](https://github.com/doitintl/kubeip) - Assign static public IPs to Kubernetes nodes (GKE, EKS)
 - [lucagrulla/cw](https://github.com/lucagrulla/cw) - The best way to tail AWS CloudWatch Logs from your terminal
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Tfsec is now part of Trivy
@@ -558,6 +559,7 @@
 
 ## azure 
 
+- [patrickchugh/terravision](https://github.com/patrickchugh/terravision) - Cloud architecture diagrams in both directions: AI prompt or JSON to diagram, diagram to Terraform via MCP server, and Terraform to diagram via CLI or CI/CD. Using Official AWS, Azure and GCP icons.
 - [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider.
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Tfsec is now part of Trivy
 - [HariSekhon/Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs) - Advanced Kubernetes YAML configs - Best Practices, Tips & Tricks, Production-Ready Checklist - experience from several production environments. AWS, GCP, Azure, ArgoCD, GKE, EKS, AKS, Nginx, Traefik, 
@@ -667,6 +669,7 @@
 
 ## chatgpt 
 
+- [patrickchugh/terravision](https://github.com/patrickchugh/terravision) - Cloud architecture diagrams in both directions: AI prompt or JSON to diagram, diagram to Terraform via MCP server, and Terraform to diagram via CLI or CI/CD. Using Official AWS, Azure and GCP icons.
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
 - [ChatGPTBox-dev/chatGPTBox](https://github.com/ChatGPTBox-dev/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
 - [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
@@ -720,6 +723,7 @@
 
 ## claude 
 
+- [patrickchugh/terravision](https://github.com/patrickchugh/terravision) - Cloud architecture diagrams in both directions: AI prompt or JSON to diagram, diagram to Terraform via MCP server, and Terraform to diagram via CLI or CI/CD. Using Official AWS, Azure and GCP icons.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 
 ## claude-code 
@@ -2290,6 +2294,7 @@
 
 ## mcp 
 
+- [patrickchugh/terravision](https://github.com/patrickchugh/terravision) - Cloud architecture diagrams in both directions: AI prompt or JSON to diagram, diagram to Terraform via MCP server, and Terraform to diagram via CLI or CI/CD. Using Official AWS, Azure and GCP icons.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 
 ## microservices 
@@ -2563,7 +2568,6 @@
 - [007revad/Synology_HDD_db](https://github.com/007revad/Synology_HDD_db) - Add your HDD, SSD and NVMe drives to your Synology's compatible drive database and a lot more
 - [Bigfoot71/r3d-legacy](https://github.com/Bigfoot71/r3d-legacy) - Advanced 3D rendering library for raylib
 - [bsharper/atv-desktop-remote](https://github.com/bsharper/atv-desktop-remote) - A simple app to allow you to control an Apple TV from your desktop
-- [patrickchugh/terravision](https://github.com/patrickchugh/terravision) - Professional cloud architecture diagrams with official AWS, Azure and GCP icons, from Terraform code or a plain JSON graph. MCP server + agent skill.
 - [ckabalan/visualsubnetcalc](https://github.com/ckabalan/visualsubnetcalc) - Visual Subnet Calculator
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [ErsatzTV/legacy](https://github.com/ErsatzTV/legacy) - Open-source platform that transforms your personal media library into live, custom TV channels.
@@ -3586,6 +3590,7 @@
 
 ## terraform 
 
+- [patrickchugh/terravision](https://github.com/patrickchugh/terravision) - Cloud architecture diagrams in both directions: AI prompt or JSON to diagram, diagram to Terraform via MCP server, and Terraform to diagram via CLI or CI/CD. Using Official AWS, Azure and GCP icons.
 - [terraform-linters/tflint](https://github.com/terraform-linters/tflint) - A Pluggable Terraform Linter
 - [busser/tfautomv](https://github.com/busser/tfautomv) - Generate Terraform moved blocks automatically for painless refactoring
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Tfsec is now part of Trivy
