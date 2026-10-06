@@ -540,7 +540,7 @@
 - [hemanth/head-it](https://github.com/hemanth/head-it) - Easy interface for `head`
 - [YellowLabTools/YellowLabTools](https://github.com/YellowLabTools/YellowLabTools) - WebPerf and front-end quality testing tool
 - [micromodal/Micromodal](https://github.com/micromodal/Micromodal) - ⭕   Tiny javascript library for creating accessible modal dialogs
-- [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
+- [sampotts/plyr](https://github.com/sampotts/plyr) - Deprecated in favour of Video.js 10; security updates only. Simple HTML5, YouTube and Vimeo player.
 - [jparise/chrome-utm-stripper](https://github.com/jparise/chrome-utm-stripper) - Browser extension that strips Google Analytics (UTM) parameters, and various other click tracking tokens, from URL query strings
 - [tuya/tuya-homebridge](https://github.com/tuya/tuya-homebridge) - Homebridge custom plugin for controlling Powered by Tuya (PBT) devices in HomeKit. This plugin is officially maintained by the Tuya Developer Team.
 - [showdownjs/showdown](https://github.com/showdownjs/showdown) - A bidirectional Markdown to HTML to Markdown converter written in Javascript
@@ -1105,7 +1105,7 @@
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [jmacdonald/amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
-- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
+- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ GUI/CLI tool and library for saving complete web pages as a single HTML file
 - [emarsden/dash-mpd-cli](https://github.com/emarsden/dash-mpd-cli) - Download media content from a DASH-MPEG or DASH-WebM MPD manifest
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data
