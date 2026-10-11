@@ -375,7 +375,7 @@
 - [hidetatz/kubecolor](https://github.com/hidetatz/kubecolor) - colorizes kubectl output
 - [ivpn/desktop-app](https://github.com/ivpn/desktop-app) - Official IVPN Desktop app
 - [indiependente/autoEqMac](https://github.com/indiependente/autoEqMac) - EqMac preset generator powered by AutoEq.
-- [dkorunic/iSMC](https://github.com/dkorunic/iSMC) - Apple SMC CLI — decode temperature, fans, battery, power, voltage and current on macOS
+- [dkorunic/iSMC](https://github.com/dkorunic/iSMC) - Apple SMC CLI for macOS — temperature, fan, battery, power, voltage and current sensors on Intel and Apple Silicon (M1–M5), with table, JSON and InfluxDB output
 - [harryzcy/ascheck](https://github.com/harryzcy/ascheck) - A command-line app that bulk-checks your apps for the Apple Silicon support
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
