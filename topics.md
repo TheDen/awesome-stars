@@ -776,6 +776,7 @@
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Unified querying, transformation, and modification of JSON, TOML, YAML, XML, INI, HCL, KDL and CSV.
 - [tenox7/ttyplot](https://github.com/tenox7/ttyplot) - a realtime plotting utility for terminal/console with data input from stdin
 - [indiependente/autoEqMac](https://github.com/indiependente/autoEqMac) - EqMac preset generator powered by AutoEq.
+- [dkorunic/iSMC](https://github.com/dkorunic/iSMC) - Apple SMC CLI for macOS — temperature, fan, battery, power, voltage and current sensors on Intel and Apple Silicon (M1–M5), with table, JSON and InfluxDB output
 - [whipper-team/whipper](https://github.com/whipper-team/whipper) - Python CD-DA ripper preferring accuracy over speed
 - [harryzcy/ascheck](https://github.com/harryzcy/ascheck) - A command-line app that bulk-checks your apps for the Apple Silicon support
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
@@ -1526,6 +1527,7 @@
 - [m-manu/go-find-duplicates](https://github.com/m-manu/go-find-duplicates) - Find duplicate files (photos, videos, music, documents) on your computer, portable hard drives etc.
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Unified querying, transformation, and modification of JSON, TOML, YAML, XML, INI, HCL, KDL and CSV.
 - [indiependente/autoEqMac](https://github.com/indiependente/autoEqMac) - EqMac preset generator powered by AutoEq.
+- [dkorunic/iSMC](https://github.com/dkorunic/iSMC) - Apple SMC CLI for macOS — temperature, fan, battery, power, voltage and current sensors on Intel and Apple Silicon (M1–M5), with table, JSON and InfluxDB output
 - [harryzcy/ascheck](https://github.com/harryzcy/ascheck) - A command-line app that bulk-checks your apps for the Apple Silicon support
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
@@ -2224,7 +2226,7 @@
 - [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - An open-source OS project that aims to provide source and binary compatibility with macOS® and a similar user experience.
 - [sindresorhus/Gifski](https://github.com/sindresorhus/Gifski) - 🌈 Convert videos to high-quality GIFs on your Mac
 - [indiependente/autoEqMac](https://github.com/indiependente/autoEqMac) - EqMac preset generator powered by AutoEq.
-- [dkorunic/iSMC](https://github.com/dkorunic/iSMC) - Apple SMC CLI — decode temperature, fans, battery, power, voltage and current on macOS
+- [dkorunic/iSMC](https://github.com/dkorunic/iSMC) - Apple SMC CLI for macOS — temperature, fan, battery, power, voltage and current sensors on Intel and Apple Silicon (M1–M5), with table, JSON and InfluxDB output
 - [amiantos/pibar](https://github.com/amiantos/pibar) - PiBar for Pi-hole - Manage your Pi-hole(s) from your macOS menu bar!
 - [wynioux/macOS-GateKeeper-Helper](https://github.com/wynioux/macOS-GateKeeper-Helper) - Simple macOS GateKeeper script.
 - [szTheory/exifcleaner](https://github.com/szTheory/exifcleaner) - Cross-platform desktop GUI app to clean image metadata
@@ -2334,7 +2336,7 @@
 - [Phantas0s/devdash](https://github.com/Phantas0s/devdash) - :bento: Highly Configurable Terminal Dashboard for Developers and Creators
 - [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
 - [cointop-sh/cointop](https://github.com/cointop-sh/cointop) - A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀 by @miguelmota
-- [dkorunic/iSMC](https://github.com/dkorunic/iSMC) - Apple SMC CLI — decode temperature, fans, battery, power, voltage and current on macOS
+- [dkorunic/iSMC](https://github.com/dkorunic/iSMC) - Apple SMC CLI for macOS — temperature, fan, battery, power, voltage and current sensors on Intel and Apple Silicon (M1–M5), with table, JSON and InfluxDB output
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [roma-glushko/tango](https://github.com/roma-glushko/tango) - Tango is a command-line tool for analyzing access logs 💃
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
