@@ -82,6 +82,7 @@
 
 ## C 
 
+- [metalsharp/MetalSharp](https://github.com/metalsharp/MetalSharp) - Run Windows games and Windows applications on MacOS Silicon with MetalSharp. https://www.metalsharpmac.com/
 - [iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [ramiropolla/ffglitch-core](https://github.com/ramiropolla/ffglitch-core) - FFglitch - FFmpeg fork for glitching
 - [TheOfficialFloW/MiniVitaTV](https://github.com/TheOfficialFloW/MiniVitaTV) - Allows you to play local multiplayer games on your PS Vita with up to 4 friends
@@ -147,6 +148,7 @@
 
 ## C++ 
 
+- [KytyPS5/KytyPS5](https://github.com/KytyPS5/KytyPS5) - PlayStation 5 translation layer for Windows, Linux and macOS
 - [canonical/multipass](https://github.com/canonical/multipass) - Multipass orchestrates virtual Ubuntu instances
 - [jamylak/vsdf](https://github.com/jamylak/vsdf) - Vulkan SDF Renderer + Video Recorder + Hot Reloader
 - [jpd002/Play-](https://github.com/jpd002/Play-) - Play! - PlayStation2 Emulator
@@ -862,7 +864,7 @@
 - [patrickchugh/terravision](https://github.com/patrickchugh/terravision) - Cloud architecture diagrams in both directions: AI prompt or JSON to diagram, diagram to Terraform via MCP server, and Terraform to diagram via CLI or CI/CD. Using Official AWS, Azure and GCP icons.
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [kdeldycke/meta-package-manager](https://github.com/kdeldycke/meta-package-manager) - 🎁 snapshot every package on your machine to one file, restore it on a new one
-- [CybercentreCanada/assemblyline](https://github.com/CybercentreCanada/assemblyline) - AssemblyLine 4: File triage and malware analysis
+- [CybercentreCanada/assemblyline](https://github.com/CybercentreCanada/assemblyline) - Assemblyline 4: File triage and malware analysis
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
 - [ChrisBuilds/terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects) - TerminalTextEffects (TTE) is a terminal visual effects engine, application, and Python library.
 - [jjjake/internetarchive](https://github.com/jjjake/internetarchive) - A Python and Command-Line Interface to Archive.org
