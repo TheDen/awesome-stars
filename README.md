@@ -980,7 +980,7 @@
 - [aws/aws-eks-best-practices](https://github.com/aws/aws-eks-best-practices) - A best practices guide for day 2 operations, including operational excellence, security, reliability, performance efficiency, and cost optimization.
 - [caseychu/spotify-backup](https://github.com/caseychu/spotify-backup) - A Python script that exports all of your Spotify playlists.
 - [BradLewis/simple-injection](https://github.com/BradLewis/simple-injection) - An object-oriented approach to dependency injection in python.
-- [eLVee1991/youtubeblock](https://github.com/eLVee1991/youtubeblock) - Search the pihole logs for youtube advertisement urls and add them to the blocklist.
+- [bee-haze/youtubeblock](https://github.com/bee-haze/youtubeblock) - Search the pihole logs for youtube advertisement urls and add them to the blocklist.
 - [funilrys/PyFunceble](https://github.com/funilrys/PyFunceble) - The tool to check the availability or syntax of domain, IP or URL.
 - [rossant/awesome-math](https://github.com/rossant/awesome-math) - A curated list of awesome mathematics resources
 - [google/TensorNetwork](https://github.com/google/TensorNetwork) - A library for easy and efficient manipulation of tensor networks.
