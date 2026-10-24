@@ -83,6 +83,7 @@
 - [docker](#docker)
 - [documentation](#documentation)
 - [dotfiles](#dotfiles)
+- [downloader](#downloader)
 - [education](#education)
 - [electron](#electron)
 - [emacs](#emacs)
@@ -1207,6 +1208,12 @@
 ## dotfiles 
 
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
+
+## downloader 
+
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
+- [emarsden/dash-mpd-cli](https://github.com/emarsden/dash-mpd-cli) - Download media content from a DASH-MPEG or DASH-WebM MPD manifest
+- [vitiko98/qobuz-dl](https://github.com/vitiko98/qobuz-dl) - A complete Lossless and Hi-Res music downloader for Qobuz
 
 ## education 
 
