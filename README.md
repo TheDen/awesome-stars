@@ -540,6 +540,7 @@
 - [minbrowser/min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
 - [amirshnll/custom-device-emulation-chrome](https://github.com/amirshnll/custom-device-emulation-chrome) - custom device emulation chrome | How To Add Custom Device on Chrome Emulation ?
 - [IvanMathy/Boop](https://github.com/IvanMathy/Boop) - A scriptable scratchpad for developers. In slow yet steady progress.
+- [mRs-/Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals) - Black Friday Deals for macOS / iOS Software & Books
 - [hemanth/head-it](https://github.com/hemanth/head-it) - Easy interface for `head`
 - [YellowLabTools/YellowLabTools](https://github.com/YellowLabTools/YellowLabTools) - WebPerf and front-end quality testing tool
 - [micromodal/Micromodal](https://github.com/micromodal/Micromodal) - ⭕   Tiny javascript library for creating accessible modal dialogs
@@ -728,7 +729,6 @@
 - [polarisZhao/awesome-face](https://github.com/polarisZhao/awesome-face) - 😎 face releated algorithm, dataset and paper
 - [fosslife/awesome-ricing](https://github.com/fosslife/awesome-ricing) - A curated list of awesome tools and technology to help you out with ricing on linux
 - [its-a-feature/awesome-osx-command-line](https://github.com/its-a-feature/awesome-osx-command-line) - Use your OS X terminal shell to do awesome things.
-- [mRs-/Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals) - Black Friday Deals for macOS / iOS Software & Books
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [agmmnn/awesome-blender](https://github.com/agmmnn/awesome-blender) - 🪐 A curated list of awesome Blender add-ons, extensions, AI/MCP tools, tutorials, and 3D resources.
 - [kushaldas/lym](https://github.com/kushaldas/lym) - Linux command line for you and me
