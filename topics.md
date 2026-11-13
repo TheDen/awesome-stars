@@ -1136,6 +1136,7 @@
 
 ## discord 
 
+- [FoxxMD/multi-scrobbler](https://github.com/FoxxMD/multi-scrobbler) - Scrobble plays from multiple sources to multiple clients
 - [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) - A Desktop App for YouTube Music
 - [ciderapp/Apple-Music-Electron](https://github.com/ciderapp/Apple-Music-Electron) - Apple Music Electron is now deprecated. See our new project Cider https://github.com/ciderapp/Cider
 
@@ -2380,7 +2381,6 @@
 
 ## music 
 
-- [FoxxMD/multi-scrobbler](https://github.com/FoxxMD/multi-scrobbler) - Scrobble plays from multiple sources to multiple clients
 - [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) - A Desktop App for YouTube Music
 - [SongStitch/songstitch-ios](https://github.com/SongStitch/songstitch-ios) - A blazingly fast iOS app for generating LastFM collages.
 - [SongStitch/song-stitch](https://github.com/SongStitch/song-stitch) - A blazingly fast web app for generating LastFM collages.
